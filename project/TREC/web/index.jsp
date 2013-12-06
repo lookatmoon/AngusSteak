@@ -32,7 +32,12 @@
 	</div>
             
         <div class='well'>
-	    Tweets to be labeled. <SPAN style='BACKGROUND-COLOR: #ffff00'>Yellow</SPAN>: pos unigrams. <SPAN style='BACKGROUND-COLOR: #00FF00'>Green</span>: neg unigrams. <u style='color:black;'>Black and underscored</u>: pos bigrams. <del style='color:red;'>Red and crossed-out</del>: neg bigrams.
+	    Tweets to be labeled. 
+            <span class="label label-success"><font size="3">pos unigrams</font></span>
+            <span class="label label-important"><font size="3">neg unigrams</font></span>
+            <span class="label"><font size="3">pos bigrams</font></span>
+            <span class="label label-inverse"><font size="3">neg bigrams</font></span>
+            
 	    <div id="tableContainer">
 		<table id="one-column-emphasis" class="one_column_emphasis"></table>
 	    </div>
