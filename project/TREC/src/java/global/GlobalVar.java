@@ -20,11 +20,13 @@ public class GlobalVar {
 	public static String LIBlinearPath = "/codes/eclispse/Java/svmlib/liblinear-1.93/";
 	public static String LIBlinearWeightPath = "/codes/eclispse/Java/svmlib/liblinear-weights-1.91/";
 	*/
-        public static String codePath = "/Users/raywang/Documents/courses/Adv DB/project/TREC/web/files/";
-	public static String dataPath = "/Users/raywang/Documents/courses/Adv DB/project/TREC/web/files/data/svm/";
-	public static String sentiLexiconPath = "/Users/raywang/Documents/courses/Adv DB/project/resources/lexicon/";
-	public static String LIBlinearPath = "/Users/raywang/Documents/courses/Adv DB/project/resources/liblinear/liblinear-1.93/";
-	public static String LIBlinearWeightPath = "/Users/raywang/Documents/courses/Adv DB/project/resources/liblinear/liblinear-1.93/";
+        
+        public static String chjun_user = "/Users/junchen/course/AngusSteak/";
+        public static String codePath = "project/TREC/web/files/";
+	public static String dataPath = "project/TREC/web/files/data/svm/";
+	public static String sentiLexiconPath = "project/resources/lexicon/";
+	public static String LIBlinearPath = "/resources/liblinear/liblinear-1.93/";
+	public static String LIBlinearWeightPath = "project/resources/liblinear/liblinear-1.93/";
         
 	//server
 // 	public static boolean testing = true;

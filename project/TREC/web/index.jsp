@@ -3,36 +3,45 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<link rel="stylesheet" type="text/css" href="js/library/style.css">
-	<script src="js/library/jquery-1.6.4.js"></script>
-	<script src="js/getQueryTweets.js"></script>
-	<script src="js/draw.js"></script>
-	<script src="js/data.js"></script>
-	<script src="js/globalVar.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	
         <title>TREC Labeling</title>
     </head>
     <body>
-	<div id="inputContainer" style="margin: 0 auto; position: absolute; height: 4%; width: 84%; left: 2%; top: 1%;">
-	    <input id="query" type="text" style="position: absolute; width: 33%; left: 2%; " value="politics" >
-	    <input type="submit" id="queryButton" style="position: absolute; left: 37%; "
-		   value="Continue by Query ID" onclick='sendQueryRequest($("#query").val());'>
-	    <div style="position: absolute; height: 4%; width: 23%; left: 55%; top: 1%;">
-		# tweets to be labeled: <input id="queryNumRtn" type="text" style="width: 10%;" value="10" >
+        <div class='container mini-layout'>
+	<div class='well' id="inputContainer">
+	    <input id="query" type="text" value="politics" >
+<!--	    <input type="submit" id="queryButton"
+		   value="Continue by Query ID" onclick='sendQueryRequest($("#query").val());'>-->
+            <button class="btn btn-primary" 
+                    id="queryButton" onclick='sendQueryRequest($("#query").val());' 
+                    type="button">Continue by Query ID</button>
+            
+	    <div>
+		# tweets to be labeled: <input id="queryNumRtn" type="text">
 	    </div>
-	    <div style="position: absolute; height: 4%; width: 25%; left: 75%; top: 1%;">
-		# confident tweets: <input id="confidentNumRtn" type="text" style="width: 10%;" value="10" >
+	    <div>
+		# confident tweets: <input id="confidentNumRtn" type="text">
 	    </div>
-	    <input type="submit" id="allTweetsButton" style="position: absolute; left: 95%; "
-		   value="All unlabeled tweets" onclick='allUnLabeledTweets($("#query").val());'>
+<!--	    <input type="submit" id="allTweetsButton" style="position: relative; "
+		   value="All unlabeled tweets" onclick='allUnLabeledTweets($("#query").val());'>-->
+            <button class="btn btn-primary" 
+                    id="allTweetsButton" onclick='allUnLabeledTweets($("#query").val());' 
+                    type="button">All unlabeled tweets</button>
 	</div>
-
-	<div style="margin: 0 auto; position: absolute; height: 85%; width: 48%; left: 1%; top: 8%; overflow-y: scroll;">
+            
+        <div class='well'>
 	    Tweets to be labeled. <SPAN style='BACKGROUND-COLOR: #ffff00'>Yellow</SPAN>: pos unigrams. <SPAN style='BACKGROUND-COLOR: #00FF00'>Green</span>: neg unigrams. <u style='color:black;'>Black and underscored</u>: pos bigrams. <del style='color:red;'>Red and crossed-out</del>: neg bigrams.
-	    <div id="tableContainer" style="margin: 0 auto; position: absolute; width: 95%; left: 0%; top: 1%; height: 90%; ">
-		<table id="one-column-emphasis" class="one_column_emphasis" width="95%"></table>
+	    <div id="tableContainer">
+		<table id="one-column-emphasis" class="one_column_emphasis"></table>
 	    </div>
 	</div>
-	<div id="paraSetContainer" style="margin: 0 auto; position: absolute; height: 4%; width: 47%; left: 1%; top: 28%; ">
+        </div>
+
+        <div class='container mini-layout'>
+        <div class='search_options'>
+        <div id="paraSetContainer" class="span4 well">
 	    <select id="paraSetSelecter" name="trecQueries">
 		<option id="queryNone"> </option>
 		<option id="MB111">MB111; water shortages; 317711766815653888</option>
@@ -97,60 +106,90 @@
 		<option id="MB170">MB170; Tony Mendez; 318365281321881600</option>
 	    </select>
 	    <br>
-	    Query id: <input id="paraQueryID" type="text" value="" style="width: 35%;"><br>
-	    Query: <input id="paraQuery" type="text" value="" style="width: 35%;"><br>
-	    Query tweet time: <input id="paraQueryTime" type="text"  value="" style="width: 35%;"><br>
-	    Maximum number of tweets: <input id="paraQueryTweetNum" type="text"  value="500" style="width: 10%;"><br>
-	    Number of clusters: <input id="paraClusterNum" type="text"  value="20" style="width: 5%;"><br>
-	    Number of top tweets selected in first retrieval: <input id="paraTopTweetNum" type="text"  value="20" style="width: 5%;"><br>
-	    <input type="submit" id="queryAPIButton" 
-		   value="Search API" onclick='searchAPI();'>
+	    Query id: <input id="paraQueryID" type="text" value="" ><br>
+	    Query: <input id="paraQuery" type="text" value="" ><br>
+	    Query tweet time: <input id="paraQueryTime" type="text"  value="" ><br>
+	    Maximum number of tweets: <input id="paraQueryTweetNum" type="text"  value="500" ><br>
+	    Number of clusters: <input id="paraClusterNum" type="text"  value="20" ><br>
+	    Number of top tweets selected in first retrieval: <input id="paraTopTweetNum" type="text"  value="20"><br>
+            <button class="btn btn-primary" 
+                    id="queryAPIButton" onclick='searchAPI();' type="button">Search API</button>
 	</div>
+        
+        <div id="newQueryDiv" class='span4 well'>
+	    <div id="newQueryText"></div>
+	    <br>
+	    <div id="newQueryToSubmitDiv">
+		Query for outer loop: <br>
+		<textarea id="newQueryToSubmitInput" cols="60" rows="5" wrap="virtual"></textarea>
+		<br>
+		Ignored terms in query: <div id="newQueryIgnoreText" ></div>
+	    </div>
+	    <div id="tweetNumOuterLoop" ></div>
+	    <div id="oldQueryDiv" ></div>
+	    Maximum number of tweets: <input id="paraQueryTweetNum2" type="text"  value="1000" ><br>
+	    <div>
+<!--		<input type="submit" id="stopButton"
+		       value="Stop labeling to query API" onclick='re_searchAPI();'>-->
+                <button class="btn btn-primary" 
+                    id="stopButton" onclick='re_searchAPI();' type="button">Stop labeling to query API</button>
+	    </div>
+	</div>
+        </div>
+        </div>
+        
+        <!--       added by Jun, TAB-->
+        <div class='container'>
+        <div class='span12 main_body_labeler'>
+            <ul class="nav nav-tabs">
+               <li class="active">
+                   <a href="#">Labeler1</a>
+               </li>
+               <li><a href="#">Labeler2</a></li>
+               <li><a href="#">Labeler3</a></li>
+            </ul>
+        </div>
+        </div>
+        
+        
 
-	<div id="bottonDiv" style="position: absolute; height: 6%; width: 10%; left: 45%; top: 94%; display: none;">
+	
+
+	<div id="bottonDiv" style="position: relative; height: 6%; width: 10%; left: 45%; top: 94%; display: none;">
 	    <input type="submit" id="submitBotton"
-		   style="position: absolute; left: 25%; top: 20%; "
+		   style="position: relative; left: 25%; top: 20%; "
 		   value="Submit" onclick='sendLabeledTweetsBack();'>
 	</div>
-	<div id="bottonRightDiv" style="position: absolute; height: 6%; width: 10%; left: 80%; top: 94%; display: none;">
+	<div id="bottonRightDiv" style="position: relative; height: 6%; width: 10%; left: 80%; top: 94%; display: none;">
 	    <input type="submit" id="submitConfidentBotton"
-		   style="position: absolute; left: 25%; top: 20%; "
+		   style="position: relative; left: 25%; top: 20%; "
 		   value="Submit Confident tweets as well" onclick='sendLabeledConfidentTweetsBack();'>
 	</div>
 
-	<div style="margin: 0 auto; position: absolute; height: 41%; width: 48%; left: 51%; top: 8%; overflow-y: scroll;">
-	    <div id="labeledStatsDiv" style="margin: 0 auto; position: absolute; width: 95%; left: 1%; top: 0%; height: 7%; "></div>
-	    <div id="tableContainerRight" style="margin: 0 auto; position: absolute; width: 95%; left: 0%; top: 1%; height: 90%; ">
+	<div>
+	    <div id="labeledStatsDiv" ></div>
+	    <div id="tableContainerRight" >
 		<table id="one-column-emphasis-right"  class="one_column_emphasis" width="95%"></table>
 	    </div>
 	</div>
 
-	<div style="margin: 0 auto; position: absolute; height: 41%; width: 48%; left: 51%; top: 51%; overflow-y: scroll;">
+	<div >
 
-	    <div id="classiferStatsDiv" style="margin: 0 auto; position: absolute; width: 95%; left: 1%; top: 0%; height: 7%; "></div>
-	    <div id="tableContainerRightBottom" style="margin: 0 auto; position: absolute; width: 95%; left: 0%; top: 18%; height: 90%; ">
+	    <div id="classiferStatsDiv" ></div>
+	    <div id="tableContainerRightBottom" >
 		<table id="one-column-emphasis-rightBottom"  class="one_column_emphasis" width="95%"></table>
 	    </div>
 	</div>
 
-	<div id="newQueryDiv" style="margin: 0 auto; position: absolute; height: 55%; width: 48%; left: 51%; top: 101%; overflow-y: scroll;">
-	    <div id="newQueryText" style="width: 95%; left: 0%; top: 0%; "></div>
-	    <br>
-	    <div id="newQueryToSubmitDiv" style="width: 95%; left: 0%;">
-		Query for outer loop: <br>
-		<textarea id="newQueryToSubmitInput" cols="60" rows="5" wrap="virtual"></textarea>
-		<br>
-		Ignored terms in query: <div id="newQueryIgnoreText" style="width: 95%; left: 0%;"></div>
-	    </div>
-	    <div id="tweetNumOuterLoop" style="width: 95%; left: 0%;"></div>
-	    <div id="oldQueryDiv" style="width: 95%; left: 0%;"></div>
-	    Maximum number of tweets: <input id="paraQueryTweetNum2" type="text"  value="1000" style="width: 13%;"><br>
-	    <div style="height: 4%; width: 95%; left: 0%;">
-		<input type="submit" id="stopButton" style="left: 14%; "
-		       value="Stop labeling to query API" onclick='re_searchAPI();'>
-	    </div>
-	</div>
-	<script type="text/javascript">
+	
+	
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+	<script src="js/getQueryTweets.js"></script>
+	<script src="js/draw.js"></script>
+	<script src="js/data.js"></script>
+	<script src="js/globalVar.js"></script>  
+        <script type="text/javascript">
 	    
 	    $('#paraSetSelecter').change(function() {
 		getSelectedParameters();
@@ -162,5 +201,6 @@
 		}
 	    });
 	</script>
+
     </body>
 </html>
