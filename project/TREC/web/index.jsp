@@ -189,10 +189,6 @@
         </div>
         </div>
         
-        
-
-	
-
 	
 	<div id="bottonRightDiv" style="position: relative; height: 6%; width: 10%; left: 80%; top: 94%; display: none;">
 	    <input type="submit" id="submitConfidentBotton"
