@@ -1,0 +1,1 @@
+ Enter preset queries...	politics	234	500	20
