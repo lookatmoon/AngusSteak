@@ -22,11 +22,12 @@ public class GlobalVar {
 	*/
         
         public static String chjun_user = "/Users/junchen/course/AngusSteak/";
-        public static String codePath = "project/TREC/web/files/";
-	public static String dataPath = "project/TREC/web/files/data/svm/";
-	public static String sentiLexiconPath = "project/resources/lexicon/";
-	public static String LIBlinearPath = "/resources/liblinear/liblinear-1.93/";
-	public static String LIBlinearWeightPath = "project/resources/liblinear/liblinear-1.93/";
+        
+        public static String codePath = chjun_user + "project/TREC/web/files/";
+	public static String dataPath = chjun_user + "project/TREC/web/files/data/svm/";
+	public static String sentiLexiconPath = chjun_user + "project/resources/lexicon/";
+	public static String LIBlinearPath = chjun_user + "project/resources/liblinear/liblinear-1.93/";
+	public static String LIBlinearWeightPath =chjun_user +  "project/resources/liblinear/liblinear-1.93/";
         
 	//server
 // 	public static boolean testing = true;

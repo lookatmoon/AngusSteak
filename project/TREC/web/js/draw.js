@@ -94,7 +94,7 @@ function highlightWords(tweetWords, startIndex){
 	    tweet += "<SPAN class=' " + tweetWordColors[i] + tweetWordBigramShapes[i] +"'>" + tweetWords[i] + "</SPAN> ";
 	    
 	}else{
-	    tweet += tweetWordBigramShapes[i] + tweetWords[i] + tweetWordBigramShapeEnds[i] + " ";
+	    tweet += "<SPAN class=' " + tweetWordBigramShapes[i] +"'>" + tweetWords[i] + "</SPAN> ";
 	}
     }
 

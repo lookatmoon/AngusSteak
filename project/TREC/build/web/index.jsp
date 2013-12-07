@@ -18,12 +18,12 @@
        
         <div class='container mini-layout'>
 	<div class='well' id="inputContainer">
-            Query: <input id="paraQuery" type="text" value="" >
+            <input id="paraQuery" type="text" value="" >
 
             <a id='bt1' onclick="setVisibility('div1');"> Advanced </a><br>
             
             <button class="btn btn-primary" 
-                    id="queryAPIButton" onclick='searchAPI();' type="button">Search API
+                    id="queryAPIButton" onclick='searchAPI();' type="button">Search
             </button><br><br>
             <div id="div1" style="display: none;">
 	    <select id="paraSetSelecter" name="trecQueries">
@@ -130,61 +130,70 @@
         
         <div class='container mini-layout'>
             <div class='well' id="inputContainer">
+                
+                    <div>
+                    Tweets to be labeled. 
+                    <span style="display: inline;">
+                        <span class="label label-success"><font size="3">pos unigrams</font></span>
+                        <span class="label label-important"><font size="3">neg unigrams</font></span>
+                        <span class="label"><font size="3">pos bigrams</font></span>
+                        <span class="label label-inverse"><font size="3">neg bigrams</font></span>
+                    </span>
 
-                Tweets to be labeled. 
-                <span class="label label-success"><font size="3">pos unigrams</font></span>
-                <span class="label label-important"><font size="3">neg unigrams</font></span>
-                <span class="label"><font size="3">pos bigrams</font></span>
-                <span class="label label-inverse"><font size="3">neg bigrams</font></span>
-
-                <div id="tableContainer">
-                    <table id="one-column-emphasis" class="one_column_emphasis"></table>
+                
+                    </div>
                 </div>
             </div>
         </div>
+
         
         <div class='container'>
         <div class='span12 main_body_labeler'>
             <ul class="nav nav-tabs">
                <li class="active">
-                   <a href="#">Labeler1</a>
+                   <a class="labeler">Please label</a>
                </li>
-               <li><a href="#">Labeler2</a></li>
-               <li><a href="#">Labeler3</a></li>
+               <li><a class="labeler">Your labels</a></li>
+               <li><a class="labeler">Predicted labels</a></li>
             </ul>
         </div>
         </div>
         
+        <div id="labeledStatsDiv" ></div>
+        <div id="classiferStatsDiv" ></div>
+        
+        <div id="tableContainer" class="labeler_0_content container">
+            <div id="bottonDiv" style="display: none;">
+                    <input type="submit" id="submitBotton"
+                           style="position: relative; left: 25%; top: 20%; "
+                           value="Submit" onclick='sendLabeledTweetsBack();'>
+            </div>
+                    <table id="one-column-emphasis" class="one_column_emphasis table table-striped"></table>
+       </div>
+        
+        
+       <div>
+	    <div id="tableContainerRight" class="labeler_1_content container">
+            <table id="one-column-emphasis-right"  class="one_column_emphasis table table-striped"></table>
+        </div> 
+       </div>
+                
+        
+       <div>
+	    <div id="tableContainerRightBottom" class="labeler_2_content container">
+               <div id="bottonRightDiv" style="position: relative; height: 6%; width: 10%; left: 80%; top: 94%; display: none;">
+                    <input type="submit" id="submitConfidentBotton"
+                            style="position: relative; left: 25%; top: 20%; "
+                            value="Submit Confident tweets as well" onclick='sendLabeledConfidentTweetsBack();'>
+                </div>
+		<table id="one-column-emphasis-rightBottom"  class="one_column_emphasis table table-striped"></table>
+	    </div>
+		
+	</div>
+
+
         
 
-	
-
-	<div id="bottonDiv" style="position: relative; height: 6%; width: 10%; left: 45%; top: 94%; display: none;">
-	    <input type="submit" id="submitBotton"
-		   style="position: relative; left: 25%; top: 20%; "
-		   value="Submit" onclick='sendLabeledTweetsBack();'>
-	</div>
-	<div id="bottonRightDiv" style="position: relative; height: 6%; width: 10%; left: 80%; top: 94%; display: none;">
-	    <input type="submit" id="submitConfidentBotton"
-		   style="position: relative; left: 25%; top: 20%; "
-		   value="Submit Confident tweets as well" onclick='sendLabeledConfidentTweetsBack();'>
-	</div>
-
-	<div>
-	    <div id="labeledStatsDiv" ></div>
-	    <div id="tableContainerRight" >
-		<table id="one-column-emphasis-right"  class="one_column_emphasis" width="95%"></table>
-	    </div>
-	</div>
-
-	<div >
-
-	    <div id="classiferStatsDiv" ></div>
-	    <div id="tableContainerRightBottom" >
-		<table id="one-column-emphasis-rightBottom"  class="one_column_emphasis" width="95%"></table>
-	    </div>
-	</div>
-        
         <div class='container mini-layout'>
 	<div class='well' id="inputContainer">
 	    <div id="newQueryText"></div>
@@ -206,7 +215,6 @@
 	    </div>
 	</div>      
         </div>
-
 	
 	
         <script src="js/jquery.js"></script>
@@ -214,6 +222,7 @@
 	<script src="js/getQueryTweets.js"></script>
 	<script src="js/draw.js"></script>
 	<script src="js/data.js"></script>
+        <script src="js/index.js"></script>
 	<script src="js/globalVar.js"></script> 
         <script src="js/bootstrap/formatter.js"></script>
         <script type="text/javascript">

@@ -297,4 +297,635 @@
 -1	302	 205:a:1	jenna called me a soft white pussy yessssssssss i'm winning she's using my lingo i'm cool now
 -1	303	 13:this:1 63:http:1 64:t.co:1 79:http_t.co:1	#girlslikeitwhenyou offers anyone tried this? http://t.co/pfluhxgp
 -1	304		...i m feeling #blue #blue....amazaynblue....
--1	305	 60:his:1	@brettlee_58 grammar mistake its 'her' apartment n
+-1	305	 60:his:1	@brettlee_58 grammar mistake its 'her' apartment nt 'his' ;) :)
+-1	306	 3:is:1 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1	america is on course of being abandoned by god, says john macarthur http://t.co/8f7ppovi
+-1	307	 55:the:1 60:his:1 93:to:1	“@govchristie: i want to thank the president personally for all his assistance as w recover from the storm.” cc: @jpodhoretz?
+-1	308	 4:our:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 143:us:1	our panel examines the fallout of the us consulate attack in #benghazi, libya http://t.co/g44tbfhk #mtp
+-1	309	 11:and:1 54:on:1 127:rt:1 145:<s>_rt:1	rt @cbsthismorning: tmrw only on #cbsthismorning: gen. colin powell talks politics &amp; foreign policy w/ @charlierose and @norahodonnell
+-1	310	 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	obama gets a boost after gallup tweaks polling methodology (by @joneasley) http://t.co/lasnepqm
+-1	311	 3:is:1 11:and:1 55:the:1 60:his:1	.@jwartz is reporting all the oohs, aahs and new models from the #appleevent. follow all his #apple tweets from #sanjose
+-1	312	 9:it:1 93:to:1	stay faithful or stay single instead. you're just gonna hurt somebody if you do it to every relationship.
+-1	313	 63:http:1 64:t.co:1 79:http_t.co:1	more nafta anyone? romney positions as free-trade 'champion' http://t.co/horkxjv1
+-1	314	 9:it:1 11:and:1 54:on:1 55:the:1 63:http:1 64:t.co:1 70:on_the:1 79:http_t.co:1	taegan goddard: “he kept romney on the defensive and came prepared … it was devastatingly effective.” http://t.co/lhwod5mt
+-1	315	 63:http:1 64:t.co:1 79:http_t.co:1 192:no:1	‘forgotten’ refugees no more http://t.co/zpqoqnn7
+-1	316	 4:our:1 54:on:1 55:the:1 63:http:1 64:t.co:1 70:on_the:1 79:http_t.co:1 127:rt:1 136:who:1 145:<s>_rt:1	rt @foxnewslatino: introducing our new weekly column, latinos on the rise. meet @djobscene who @pitbull admires http://t.co/tcuvv0f4 #latism
+-1	317	 63:http:1 64:t.co:1 79:http_t.co:1	energy ministry proposes 2 gas terminal sites http://t.co/sqb2udds
+-1	318	 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @thetlinks: open africa conference: http://t.co/gvxjtcnl
+-1	319		im tired of annoying people
+-1	320	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 192:no:1	crews quickly put out fire in santa clarita http://t.co/fjpmhbpv no injuries or structures threatened
+-1	321	 6:we:1 11:and:1	reminder, we elect prez by ec. ppp's latest wi and va #s still have obama leading, despite also showing romney take national lead.
+-1	322	 63:http:1 64:t.co:1 79:http_t.co:1	newt: obama must answer for libya http://t.co/geeci4ow
+-1	323	 4:our:1 6:we:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	@oscarmartinez we apologize if our update seemed out of place. here's our full coverage of the storm: http://t.co/5gkauhcn
+-1	324	 194:at:1	@cashoutfonte my phone broke ... butb where you at .
+-1	325	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 205:a:1	a bid within the federal labor caucus to delay changes to the single parent payment has failed http://t.co/gf8mfnkr
+-1	326	 55:the:1	@sdwinkler you've obviously missed the latest meme bus.
+-1	327	 54:on:1 55:the:1 93:to:1 134:in:1	incident leading to the arrest of 7 uk royal marines on suspicion of murder happened in the nad ali district of helmand - @skynewsbreak
+-1	328	 63:http:1 64:t.co:1 79:http_t.co:1	romney's big bird statement sparks @firedbigbird twitter account http://t.co/us7okehh #debates
+-1	329	 3:is:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 194:at:1 205:a:1	a lack of specialty beds in hospitals is putting the lives of critically ill eating disorder sufferers at risk http://t.co/thbccjyg
+-1	330	 55:the:1 93:to:1 142:join:1	mt @barbvonwald rn just got cut to 20 hours work &amp; lost benefits.guess i'll join the millions of unempolyed/underemployed.thanks barry!!
+-1	331		#ff @jocaya2
+-1	332	 11:and:1 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 94:buy:1 120:to_buy:1 127:rt:1	true talk rt @laughoryawn: how can u buy ur bf boxers on he's bday and expect him to buy u bold6 on val's day and ... http://t.co/ydepwe2n
+-1	333	 55:the:1 93:to:1 134:in:1 173:they:1	if goldman-sachs thinks it's going to be mercantilist business-as-usual in the romney admin, they got another thing coming. #teaparty
+-1	334	 3:is:1 129:what:1 205:a:1	"what if tonight is a test? if he shows up wearing a costume, he likes me!!!" "sound logic." #newgirl
+-1	335	 54:on:1	@aceofspadeshq david plouffes " plouffey eyes"? best play on words yet... bahahaha!
+-1	336	 93:to:1	dont hit someone &amp; expect not to get hit tf back !
+-1	337	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 189:vote:1	bill clinton says n.h. gop trying to keep college students from voting: http://t.co/tuvm77bz
+-1	338	 4:our:1 93:to:1 192:no:1	@whippitup no m'am. i leave that to our armed forces
+-1	339	 63:http:1 64:t.co:1 79:http_t.co:1	photo: malware targets android smartphonessmartphone users should be aware of malware targeting mobile... http://t.co/wbvkqiyc
+-1	340	 12:strong:1 63:http:1 64:t.co:1 79:http_t.co:1	taegangoddard: obama ahead with strong support from women http://t.co/ngkdpsve
+-1	341	 15:start:1 54:on:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @sookienator: start ur day on a positive foot
+-1	342	 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	im a mouse.... duh http://t.co/ba51krn6
+-1	343		@seanmckinless i did faggot
+-1	344	 3:is:1 9:it:1 13:this:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	find out why kareem abdul-jabbar is visiting san diego this week. hint: it has to do with science. http://t.co/8bjelate
+-1	345	 172:but:1 191:are:1	@chas_blakemore @twitchyteam thank you!!  can't always respond, but you are much appreciated!! :)
+-1	346	 54:on:1 93:to:1 172:but:1 205:a:1	a top romney adviser candidly admitted to me gov could have/should have hit harder on libya but goal was to get out looking presidential
+-1	347	 127:rt:1 188:fri:1 205:a:1	nothing like conlaw either rt @erin_m_clark: nothing like a fun-filled fri night of bankruptcy &amp; secured transactions #lawschoolproblems
+-1	348	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 134:in:1 205:a:1	#hsrsymposium to open in a few hours in china. following now some appetizers from the briefing session for journalists http://t.co/iobrzv8h
+-1	349	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	syrian jets bomb near homs to break rebel siege http://t.co/h72rhwlv
+-1	350	 13:this:1 60:his:1 195:time:1 205:a:1	obama has not met with his cabinet a single time this year, neither has he met with his “jobs” team,
+-1	351	 63:http:1 64:t.co:1 79:http_t.co:1	mitt camp: media wants obama rise http://t.co/n0rlmjhg
+-1	352	 63:http:1 64:t.co:1 79:http_t.co:1	shekel weakens against dollar http://t.co/aj7rikqj
+-1	353	 93:to:1	bout to be needed out
+-1	354		why does nobody ever do anything nice for me !
+-1	355		@emriver @shermanave1 @nuintel yeeeeeee
+-1	356	 3:is:1 127:rt:1 134:in:1 145:<s>_rt:1	rt @tamerelg: police scanner says nypd 60th precinct in brooklyn is being evacuated with numerous cops trapped. #sandy
+-1	357	 63:http:1 64:t.co:1 79:http_t.co:1	ally with her true twin #endofstory http://t.co/6domyjtj
+-1	358	 53:fan:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 134:in:1 145:<s>_rt:1	rt @brooksdt: leeds fan invades pitch, hits sheffield wednesday keeper in the face http://t.co/j2vyzyky
+-1	359		putting my phone down. as long as itunes plays rainy music, i'll tweet rainy lyrics.
+-1	360	 6:we:1 11:and:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 145:<s>_rt:1 172:but:1	rt @miltshook: democrats have the momentum, but we have to keep up the pressure and finish off the gop... http://t.co/ltbbk3et …
+-1	361	 63:http:1 64:t.co:1 79:http_t.co:1 143:us:1	us hone addicts suffer withdrawal http://t.co/vailohpo
+-1	362	 17:today:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	today, a fired-up obama threw the punches he pulled wednesday night against romney: http://t.co/nxbodkte
+-1	363		1 more, pleaseee ♥
+-1	364	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	canada free press- the center for american progress: an unsustainable energy vision: the center for american pro... http://t.co/lrxkbfgp
+-1	365	 13:this:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	this week in transportation: highway bill rolls into effect (via @hilltransport) http://t.co/hyhcy7yy
+-1	366	 54:on:1	alexa chung on #gg ? 🙌
+-1	367	 7:will:1 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 134:in:1 145:<s>_rt:1 205:a:1	rt @indiegogo: hey d.c.! @gogoslava will be in town on oct 17th for a crowdfunding event hosted by senator @markwarner! http://t.co/2jsiak1u
+-1	368	 93:to:1 143:us:1	if you have to convince us, then its apparent its not so..
+-1	369	 127:rt:1 145:<s>_rt:1	rt @__taylorjay: sweet life.
+-1	370	 7:will:1 63:http:1 64:t.co:1 79:http_t.co:1	barbra streisand will use teleprompter for brooklyn show, source says http://t.co/zwoy9qmi
+-1	371	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	american thinker- behind the bls unemployment numbers: a particularly awful jobs report. http://t.co/hkzckpn5
+-1	372	 11:and:1 54:on:1 204:am:1 205:a:1	@bdane8 lol goodluck!! i made an 84 on my big test, and tonight i am making a review for my next tests...😒
+-1	373	 13:this:1 127:rt:1 145:<s>_rt:1	rt @tgiky: i can't wait til this semester over wit. i'm over these big ass 3hr blocks between my classes.
+-1	374		woke up waiting for some liquor..
+-1	375	 7:will:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 136:who:1 145:<s>_rt:1 189:vote:1 191:are:1	rt @wcgirl1: how #corporations know who you will likely #vote for across the country, companies are using cookies to tailor  http://t.co ...
+-1	376	 127:rt:1 145:<s>_rt:1 190:there:1	rt @t_loyalascanbe: i can't stand somebody that runs there mouth 🙅🙅🙅🙅🙅😠🔫
+-1	377	 6:we:1 7:will:1 9:it:1 28:we_will:1 93:to:1 205:a:1	@slickyricky69 me toooo! i even talked to my mom about it ! she was like "we will think about" those always end up being a yes 👍👍
+-1	378	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	#jewishtimes #dnepropetrovsk #ukraine new jewish cultural complex opens in ukraine http://t.co/dnnbx8xk
+-1	379	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	red state - romney vs obama, round ii: realistically, very few presidential debates have the kind of clear-cut w... http://t.co/kbr5h0ze
+-1	380	 93:to:1	as he walked to marine one, pres obama ignored shouted questions from reporters about last night's debate.
+-1	381	 8:make:1 13:this:1 93:to:1 205:a:1	as president mitt romney would want to privatize fema  to a bain co. this guy never does anything unless mitt makes money for mitt
+-1	382	 55:the:1	if romney wins, we'll see how many people demanding aggressive coverage of the admin feel the same way as of feb 2013
+-1	383	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 194:at:1	president barack obama &amp; mitt romney cracked jokes at each other at annual al smith dinner in ny http://t.co/h00aqumo
+-1	384	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	#jewishtimes #sandy #superstorm #newyork #newjersey millions without power in sandy’s wake http://t.co/886jmi38
+-1	385	 8:make:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 94:buy:1 120:to_buy:1 134:in:1 194:at:1	softbank in $20b deal to buy almost 3/4 of sprint; deal could make sprint tougher rival of verizon, at&amp;t http://t.co/yfxi9vbh
+-1	386	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	hilarious! please don't bow out before romney has beaten you in the polls! @obamastrawman @chucknellis http://t.co/5mw5ukjh
+-1	387	 93:to:1	@theresacaputo please come to nj
+-1	388	 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @blakeshelton: “@endydesigns: you would think that blakeshelton  could afford a f'ing can opener...  http://t.co/rzqiikrw” opened tha ...
+-1	389	 4:our:1 6:we:1	@mae_ihelpyou yay perfect we can finally have our date !!
+-1	390	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	#breakingnews 19 activists detained aboard estelle moved to givon prison http://t.co/ip4ji1ur
+-1	391	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	the daily caller- san francisco chronicle stands by report that obama recently talked gotv with jeremiah wright:... http://t.co/iu3m78kg
+-1	392	 13:this:1 55:the:1 93:to:1 127:rt:1 134:in:1 145:<s>_rt:1 194:at:1	rt @perlapell: it's so chilly in my bedroom this morning i thought i was in the walk-in refrigerator at my old job where i used to steal ...
+-1	393		#partyvan(;
+-1	394	 3:is:1 63:http:1 64:t.co:1 79:http_t.co:1 142:join:1	avi dichter announces he is joining likud http://t.co/eozprh1a
+-1	395	 3:is:1 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1	‘your god is wrong’ judge smacked down by colleague on appeal | http://t.co/g4sycna3 http://t.co/295wnt4u #lifesitenews
+-1	396	 9:it:1 60:his:1 127:rt:1 145:<s>_rt:1	rt @lou_tireworld: @jimgeraghty i think chris matthews has something running down his leg instead of up it tonight
+-1	397	 11:and:1 13:this:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 130:lie:1 134:in:1 145:<s>_rt:1	rt @cat5149: rt @cat5149 "i found suspense, lies and love all wrapped up in this wonderful story." http://t.co/fi5fxrk0 #historical fict ...
+-1	398	 6:we:1 55:the:1 127:rt:1 134:in:1 145:<s>_rt:1 194:at:1	rt @buzzfeedandrew: not the economy? rt @weeddude: rubio at event in denver says don't boo @vp joe biden. "he's the best thing we got go ...
+-1	399	 9:it:1 55:the:1 93:to:1 127:rt:1 145:<s>_rt:1	rt @1dmoostache: just finished doing the chubby bunny challenge with @iconovacr . she won, i didn't think it was going to be that hard...
+-1	400	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1 230:a_http:1	he like i'm waiting on momma a http://t.co/npqtry1s
+-1	401	 55:the:1	@taylorgang_k ohh c'mon now .. that's the one thing i do not miss
+-1	402	 54:on:1 93:to:1	#abc7traffic alert: shoulder blocked on 60 west @ crossroads parkway due to crash involving semi; traffic slow from hacienda
+-1	403	 11:and:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	wash examiner- examiner editorial: companies cut hours and jobs to dodge obamacare: examiner editorial if you wa... http://t.co/5kpjrxus
+-1	404	 3:is:1 8:make:1 54:on:1 55:the:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @freechildhood: the whole idea that a woman could make $780k by selling her virginity is based on female sex being idealized as rare, ...
+-1	405	 54:on:1 55:the:1 63:http:1 64:t.co:1 70:on_the:1 79:http_t.co:1 205:a:1	thinking there’s a bit of a generation gap on the “most emailed” measure http://t.co/nuq3t8cc
+-1	406	 63:http:1 64:t.co:1 79:http_t.co:1 194:at:1	i'm at panther holiday enterprise (bukit mertajam, penang) http://t.co/oamk7deq
+-1	407	 17:today:1 55:the:1 93:to:1 127:rt:1 145:<s>_rt:1 191:are:1	rt @sabergato: nazis mentored kids to hate to criticize the racial features of jewish ppl. today, teaparty members are teaching their ki ...
+-1	408	 63:http:1 64:t.co:1 79:http_t.co:1	whitney heichel allegedly shot multiple times after being sodomized by neighbor http://t.co/ukgyc5az
+-1	409	 6:we:1 54:on:1 55:the:1 134:in:1 191:are:1 204:am:1	@_graceanne_ @mercyvrazo i am play the whole we are the tide album on spotify right now. maybe it's because it's in my itunes library also.
+-1	410	 3:is:1 9:it:1 11:and:1 13:this:1 190:there:1 191:are:1 210:there_are:1	so this cnbc poll wingnuts are circulating claiming ryan won…where is it? link? there are two polls tonight -- cbs (biden won) and cnn
+-1	411	 11:and:1 55:the:1 190:there:1 205:a:1	two weekends before the election and there isn't a new "saturday night live"? booooooooo!
+-1	412	 9:it:1	feels like it just happened :/
+-1	413	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 134:in:1	canada free press- remove the barb: in an instant, thrill changed to horror. after watching jaybird’s cane pole ... http://t.co/uhxzb9mf
+-1	414	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1	one member of russian punk band pussy riot member freed on appeal; two others remain imprisoned http://t.co/mr1yrplj
+-1	415		@sofifii "psoriasis ho." that's an anagram for your name. you're welcome.
+-1	416	 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	want a green card? finance a charter school http://t.co/efjheqne
+-1	417		obamacare = health care vs. romneydontcare = wealth care @barackobama
+-1	418	 3:is:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @floridaline: luke skywalker says mitt is of the dark side (video) | addicting info http://t.co/qkml5uht
+-1	419		truth comes out
+-1	420	 3:is:1 6:we:1 9:it:1 54:on:1 55:the:1 70:on_the:1 134:in:1 205:a:1	when obama launches a strike on the benghazi attackers in libya, how likely is it that they'll be shooting back with weapons we gave them?
+-1	421	 93:to:1 136:who:1	so sorry to everyone who had to go through my tweets last night. i was going crazy.
+-1	422	 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 134:in:1 145:<s>_rt:1 194:at:1	rt @nytimes: breaking news: arlen specter, former senator, dead at 82; played role in supreme court nominations http://t.co/qojjputl
+-1	423		romney: [four years ago] i was licking my wounds from john mccain.
+-1	424	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 129:what:1 205:a:1	watch&gt; ever wondered what happens if @rachelburden went awol during a programme on @bbc5live? http://t.co/jnbze1oz
+-1	425	 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @johanna_barbie: 👯💋👯💋 http://t.co/wjicmn89
+-1	426	 3:is:1 9:it:1 54:on:1 60:his:1 127:rt:1 129:what:1 145:<s>_rt:1 205:a:1	rt @utilitylimb: a dog's nose is his doorbell, don't push it *dingwoof* dude what did i just say [hatch opens on top of dog. a smaller d ...
+-1	427	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 130:lie:1 134:in:1 145:<s>_rt:1 205:a:1	rt @gregmitch: obama team launches first post-debate ad in 7 swing states calling out romney on a lie.  http://t.co/ycva9om7
+-1	428	 55:the:1 93:to:1 127:rt:1 134:in:1 145:<s>_rt:1	rt @guardianus: spotted: pete king spending two hours in the spin room, long enough to be interviewed twice by all journalists present h ...
+-1	429	 3:is:1 54:on:1 55:the:1 127:rt:1 134:in:1 145:<s>_rt:1 173:they:1	rt @bangbang_hoee: niggas growin they hair &amp; bitches cutting theirs &lt; fuck is goin on in the world o.o
+-1	430	 7:will:1 55:the:1 60:his:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 134:in:1 145:<s>_rt:1 194:at:1	rt @samshaddock: @adamrichman will be at the state fair saturday. his mission: to find the tastiest messes in texas. http://t.co/e06dqfxf
+-1	431	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	romney to focus on sandy relief efforts http://t.co/mkpaln2o
+-1	432	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	eagles edge giants in bizarre finish http://t.co/sfz2al8p
+-1	433	 205:a:1	finalllyyyyy chilling out even though i'm a poorly bear :(
+-1	434	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	#breakingnews turkey scrambles fighter planes to syria border http://t.co/0tur98ix
+-1	435	 63:http:1 64:t.co:1 79:http_t.co:1 92:israel:1 93:to:1 119:israel_to:1	canada, israel to establish joint energy research http://t.co/ndvk0ynf
+-1	436	 15:start:1 63:http:1 64:t.co:1 79:http_t.co:1	drudge report - clark kent quits daily planet; 'start next drudge report'...: clark kent quits daily planet; 'st... http://t.co/b94ess3o
+-1	437		@torrie_tanaye lol, man look.!
+-1	438	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 172:but:1	poll: obama leads by 7 in pennsylvania, but race tightens (by @joneasley) http://t.co/mi4zby4s
+-1	439	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 142:join:1	#cartoon the debate game - join the conversation &amp; comment http://t.co/tm8rkbba
+-1	440	 93:to:1 127:rt:1	i'm sleepy rt @beyondmaya4: @audraiv you gotta go to sleep ? finis watching .
+-1	441	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 134:in:1 194:at:1 205:a:1	watching tonight's #debate? tune in to @huffpostlive at 9est for a live stream! http://t.co/lu8nd2io
+-1	442	 55:the:1 173:they:1	i feel sorry for scott cause he missing one of the biggest parts of both of they lives 😞
+-1	443	 11:and:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @engadget: microsoft announces skype for windows 8: full-screen calls, push notifications and people hub integration -  http://t.co/y ...
+-1	444	 93:to:1 127:rt:1 145:<s>_rt:1	rt @mrboomtown: “@lyricoctober: happy bday to @mrboomtown #rt all indie directors #payhomage”&lt;~~thanks broski!!!
+-1	445	 9:it:1 54:on:1 172:but:1 195:time:1 205:a:1	ailsa chang's story on part-time workers important. getting a 17hrs a week job may satisfy a stat, but it isn't a life.
+-1	446	 205:a:1	got a lot of candy !
+-1	447	 93:to:1 129:what:1	@ronlsparks we'll have to see what happens, ron!
+-1	448	 93:to:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @hannahlouhoran: rt for a dm to little mix..doing them all! (must be following me)
+-1	449	 134:in:1 205:a:1	i only have 1 a. it's  in ms. quinones' class! 😱 surprising ...
+-1	450	 54:on:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 136:who:1	malala yousafzai: the 15-year-old girl who may finally turn the tide on extremism in pakistan http://t.co/s1s4cvrj
+-1	451	 4:our:1 63:http:1 64:t.co:1 79:http_t.co:1	our favorite snl character returns http://t.co/su1xkgqr
+-1	452	 63:http:1 64:t.co:1 79:http_t.co:1	26 hilarious news corrections http://t.co/xpyd9m96
+-1	453	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	romney releases second direct-to-camera spot http://t.co/zamer1ji
+-1	454	 93:to:1 127:rt:1 145:<s>_rt:1 191:are:1	rt @emma_lapp: now i see why teachers said to take some hard classes senior year. my study skills are shittayyyy 👎💩😿
+-1	455	 3:is:1 11:and:1 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 134:in:1 191:are:1	if you are in virginia, click here for updates on sandy recovery efforts and numbers to call if your power is out » http://t.co/0qhqv9vm
+-1	456	 93:to:1 127:rt:1 145:<s>_rt:1 192:no:1	rt @steelekelly: inbox: email from va gov mcdonnell re: virginia disaster relief fund. no mention of immediately rushing $$$ to pccc for ...
+-1	457	 3:is:1 54:on:1 55:the:1 93:to:1 127:rt:1 205:a:1	bravo rt @brianstelter 32-year-old correspondent @clarissaward is the youngest person to ever have a story on "60," a cbser tells me
+-1	458	 60:his:1	let his ass know joe...
+-1	459	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	romney up 2 with likely voters in gallup http://t.co/7bfmexex
+-1	460		erased her #jacking ass
+-1	461	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 172:but:1 192:no:1	the daily caller- obama cites benghazi phone call with national security team — but no meeting: while consulate ... http://t.co/ned3qpqv
+-1	462	 63:http:1 64:t.co:1 79:http_t.co:1	sour candy.!!! http://t.co/phfed5ir
+-1	463	 63:http:1 64:t.co:1 79:http_t.co:1 194:at:1	florida teen's extreme mohawk stirs trouble at school http://t.co/0qlfjhop
+-1	464	 127:rt:1 145:<s>_rt:1	rt @dbreban: 4 year terms instead of 3.
+-1	465	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	those amazing jack welch appearances, in case you missed http://t.co/n0qnbxok via @buzzfeed
+-1	466	 54:on:1 55:the:1 63:http:1 64:t.co:1 70:on_the:1 79:http_t.co:1 190:there:1 205:a:1	there has been a third death on the coal carrier sagittarius http://t.co/r3jy2qaa
+-1	467	 63:http:1 64:t.co:1 79:http_t.co:1	police: 5 found dead after #denver bar fire. http://t.co/8xcsmbio
+-1	468	 15:start:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @johnschriffen #sandy starting to impact #westport, ma...check out these flames from a down power line. http://t.co/hmjhgutz
+-1	469	 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	google has a 10-inch nexus tablet computer now http://t.co/wv1cgtqu
+-1	470	 11:and:1 63:http:1 64:t.co:1 79:http_t.co:1	could reid and romney work together? http://t.co/71dqfiqs
+-1	471	 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	opinion:  xi should draw up a new social contract for china http://t.co/8uyzyksc
+-1	472		@andyacr thank you!
+-1	473		@elliejobuxton @laurajaybuxton 💛💙💜💚❤💗💓💕💖💞💘💋
+-1	474	 63:http:1 64:t.co:1 79:http_t.co:1	taegangoddard: obama maintains ad edge despite being outspent http://t.co/k04gsrt3
+-1	475	 6:we:1 13:this:1 93:to:1 205:a:1	@mckenzienicolee we saw that you need a job we would like to hire you go to this page @you_are_hired
+-1	476	 13:this:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	@seanhcbc you doing the kettle this year? http://t.co/d2u0nkgi
+-1	477	 11:and:1	@aqua174 #busdriveruppercutplaylist cam'ron "down and out"
+-1	478	 93:to:1	born to lose built ta win !
+-1	479	 3:is:1 7:will:1 13:this:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 192:no:1	transcript, by the way, is ambiguous. he says "no acts of terror will ever shake the resolve of this great nation". http://t.co/pdvkmfgk
+-1	480	 63:http:1 64:t.co:1 79:http_t.co:1	colorado poll: romney 48% - obama 47% - http://t.co/bnbygnww
+-1	481	 11:and:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	press release: readout of the president’s call to wisconsin governor walker and brookfield mayor ponto http://t.co/u1edildv
+-1	482	 127:rt:1 145:<s>_rt:1 194:at:1 205:a:1	rt @dril: harassing a man at a urinal, claiming i copyrighted piss
+-1	483	 11:and:1 55:the:1 93:to:1 127:rt:1 145:<s>_rt:1	rt @davidzteich: @markos i can't wait for them to say the election oversampled blacks and hispanics.
+-1	484	 11:and:1 55:the:1 127:rt:1 145:<s>_rt:1	rt @teresakopec: obama won and the yankees lost. god does love me.
+-1	485		@upwithchris thanks alexis. proud of @kxlblockade #uppers
+-1	486	 11:and:1 63:http:1 64:t.co:1 79:http_t.co:1	romney camp blasts tax policy analysis as 'misleading and deceitful' http://t.co/jnquaimg by @elwasson
+-1	487	 6:we:1 11:and:1 54:on:1 55:the:1 70:on_the:1 191:are:1	we are live and on the air with @brookebcnn @cnn breaking news @cnnbrk with #tsunami and #hurricanesandy
+-1	488		so first you unfollowed me. cool. now you block me? i lost respect for you.
+-1	489	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1	judge oks trial for alarcon, wife on voter fraud, perjury charges http://t.co/ylqs3zay
+-1	490	 11:and:1 14:future:1 54:on:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 129:what:1 205:a:1	q&amp;a: jake levin on what happened with news.me, the social utility of news, and the future of digg. http://t.co/21dubgfi
+-1	491	 10:safe:1 11:and:1 13:this:1 32:safe_and:1	whatever your plans this evening, have fun with your friends and family. stay safe (and warm)! #mn
+-1	492	 55:the:1 127:rt:1 134:in:1 145:<s>_rt:1 172:but:1	rt @nickconfessore: important question: why does the chia romney planter require 24 hours' soaking in water, but chia obama only 1 hour? ...
+-1	493	 55:the:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @sarahljaffe: @thenation do a shot of 151 if either candidate says the word "union."
+-1	494	 3:is:1 9:it:1 127:rt:1	funny wasn't it? 😏rt @_anaturalhigh: 😂😭 jill is going hard with that joke! llllss
+-1	495	 63:http:1 64:t.co:1 79:http_t.co:1 82:#israeltheregion:1 83:israeltheregion:1 93:to:1 99:<s>_#israeltheregion:1 100:<s>_israeltheregion:1	#israeltheregion #egypt #syria #syriancivilwar #cairo senior egyptian delegation heads to syria http://t.co/fzewyrpm
+-1	496	 11:and:1 55:the:1 194:at:1	if you ordered large and the lady at the counter gave you medium....#busdriverherass !
+-1	497	 191:are:1 205:a:1	.@michaelskolnik are you denying that obama has a unique relationship w/hip hop?
+-1	498	 8:make:1 54:on:1 205:a:1	i would like a make up artist on stand by.
+-1	499	 93:to:1 127:rt:1 145:<s>_rt:1	rt @anyeahcruz: my reaction to everything: omg
+-1	500	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 142:join:1	we've announced the first ever #kucinichaction candidate endorsements. join me in supporting these bold voices https://t.co/bndelyax
+-1	501	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 195:time:1	american thinker- trust? it's hail mary time for obama: "america's deceiver in chief." http://t.co/papzfm6g
+-1	502	 6:we:1 8:make:1 55:the:1	@jamieusyca @peterdellapenna can we make her the new executive secretary of #usaca
+-1	503	 3:is:1 63:http:1 64:t.co:1 79:http_t.co:1	matthew mcconaughey is barely recognizable after 30 lb. weight loss http://t.co/2ytwmdab
+-1	504	 7:will:1 127:rt:1 134:in:1	cograts nj rt @feelmore510: oakland will produce hella porn films in 2013. #oakland #feelmore
+-1	505	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	an open letter to big bird http://t.co/myw4sefp
+-1	506	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 143:us:1 193:schedule:1 195:time:1	info about where to watch first us presidential debate tonight - scheduled time, topics, live stream video provided http://t.co/y1jbppqi
+-1	507	 63:http:1 64:t.co:1 79:http_t.co:1	des moines register picks mitt http://t.co/nsudwfie
+-1	508	 54:on:1 127:rt:1 145:<s>_rt:1	rt @pattmlatimes: raddatz goes tough: two irish catholics, your differing views on abortion?
+-1	509	 7:will:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 205:a:1	franklin delano roosevelt four freedoms park will stand forever as a monument to the principles that guided him: http://t.co/jroz6psp
+-1	510	 6:we:1	@hopsin @dizzywright post some of that shit so we can hear!!
+-1	511	 63:http:1 64:t.co:1 79:http_t.co:1	drudge report - flashback: crowley calls romney-ryan 'ticket death wish'...: flashback: crowley calls romney-rya... http://t.co/ufb9vzns
+-1	512	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	sushi &amp; sake to finish off the day. #cheers. http://t.co/f2tsiuhs
+-1	513	 63:http:1 64:t.co:1 79:http_t.co:1 200:senate:1	senate map turned upside down http://t.co/8r7mo3cy
+-1	514	 7:will:1 13:this:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 145:<s>_rt:1	rt @healthcaregov: 47 million women will have access to women’s preventive services this year. http://t.co/cdq2oby6 #breastcancerawareness
+-1	515		?????"@eghofreshboi: hyfr"
+-1	516	 3:is:1 13:this:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 194:at:1	is this an early contender for best picture at the 2014 oscars? http://t.co/9zpc7vva
+-1	517	 93:to:1	@cockymcfly @mercbwilliams @sistaregal @bluesatch i've never done anything to deserve your slander!!! y'all just crazy!
+-1	518	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	the most o_o romney endorsement we've seen yet http://t.co/7whlw45d
+-1	519	 8:make:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	25 adorable hedgehogs to make you smile before going back to work monday http://t.co/vbcqctsn
+-1	520	 4:our:1 6:we:1 7:will:1 28:we_will:1 127:rt:1 145:<s>_rt:1	rt @jimandsteves: @toppscards tomorrow we will be giving away prizes including an auto of mantle during our #topps pack wars! 4-6pm, nor ...
+-1	521	 60:his:1 134:in:1 205:a:1	@benosu66 hasn't @nickswisher gotten something like one hit with a runner in scoring position in all of his playoff games? @lindamaldonado
+-1	522	 11:and:1 55:the:1 194:at:1 195:time:1	i just hiccuped and burped at the same time... #woah
+-1	523	 63:http:1 64:t.co:1 79:http_t.co:1 174:r:1	obama’s failed targeted killing program http://t.co/l0efggf0 #tcot #rs
+-1	524	 63:http:1 64:t.co:1 79:http_t.co:1	paleontologists identify odd, cat-sized dinosaur with sharp teeth that lived 200 million years ago http://t.co/vhgr2jpa
+-1	525	 11:and:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	the mas family scholarship program for undergraduate and graduate studies, florida, 2013 http://t.co/ken7xioz
+-1	526	 63:http:1 64:t.co:1 79:http_t.co:1 195:time:1	nap time  http://t.co/rdqv7mne
+-1	527		@l0vetmurdaa fmb
+-1	528	 6:we:1 17:today:1 55:the:1 93:to:1 134:in:1 205:a:1	"we have nothing left in the cupboard to give" says a banner welcoming germany's chancellor merkel to athens today. more from greece next...
+-1	529	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	tina fey to todd akin: really? http://t.co/bpl2ef9y
+-1	530	 93:to:1	hard to believe i treated someone beautiful so ugly. #meandmybaddecisions 😢🎶
+-1	531	 13:this:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @hunterdk: if this debate had happened first, the gop would be looking for a new candidate by now. http://t.co/qmu5kw8s
+-1	532	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @uaw: rt @serg_gonzo: romney-ryan: private equity pirates profiting off the misfortune of delphi autoworkers | uaw http://t.co/vp6sicyn
+-1	533	 9:it:1 54:on:1 93:to:1 127:rt:1 145:<s>_rt:1 172:but:1 174:r:1 205:a:1	rt @tim_pernetti: congrats to @rusoccer on a big senior day win. thank you to r seniors...but it ain't over yet. #rfamily
+-1	534	 3:is:1 55:the:1 129:what:1 192:no:1	@emby76  ive covered benghazi from the beginning. i have no idea what bozell is talking about.
+-1	535	 93:to:1 134:in:1 191:are:1 200:senate:1	glad dem chances in senate are looking up, so i don't have to feel guilty for hoping for some losers
+-1	536	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1	coney island hospital, btw, was not on fire. nearby car fire: http://t.co/b4dnjcc5
+-1	537	 54:on:1 55:the:1 134:in:1 204:am:1 205:a:1 229:am_a:1	"i am not a pimp. i am a motivational speaker." - maury, on tv in the edit room. #mondaybliss
+-1	538	 6:we:1 8:make:1 9:it:1 11:and:1 30:make_it:1 55:the:1 93:to:1	@rosinskibill hi bill. we hear you. thanks to feedback like yours, we've updated the font to make it larger and darker. hope that helps!
+-1	539	 55:the:1 127:rt:1 191:are:1	perspective. rt @cpheinze: "laughable: the idea that the numbers are cooked + the idea that the numbers are great."
+-1	540	 8:make:1 63:http:1 64:t.co:1 79:http_t.co:1	hurricane sandy makes landfall; rains, waves hammer east coast http://t.co/blel8jxs via @nationnow
+-1	541	 17:today:1 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 134:in:1	did you hear jd hayworth fill in for me on my radio show today? click http://t.co/twotxn7v to leave feedback. i read them!
+-1	542		@kack_baraleod because of my amazing sense of humour***
+-1	543	 136:who:1	@rudeduderudy lol who?
+-1	544	 54:on:1 55:the:1 63:http:1 64:t.co:1 70:on_the:1 79:http_t.co:1 134:in:1	in school bus driver charged with drunk driving with kids on the bus. fox news radio's @chris_hoenig has the story... http://t.co/vi1jbpxp
+-1	545	 11:and:1 55:the:1 93:to:1 127:rt:1 134:in:1 145:<s>_rt:1	rt @snapbacksnheuxs: !!! rt @marilynmonroedc: being in the mood to kill everything and everyone that comes in your way
+-1	546	 173:they:1	people gettn they feelings hurt n shyt #whocares.
+-1	547	 13:this:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @sonia_sidhu: do you have a rogers phone? then you have to read this: http://t.co/lvtvthro
+-1	548	 93:to:1 173:they:1	damn. they talkin too much ! i ready to see some football ! 🏈
+-1	549	 63:http:1 64:t.co:1 79:http_t.co:1 192:no:1	tony perkins slams gay pride month: why no 'adultery' or 'drunkenness' pride? http://t.co/b6vgngld
+-1	550	 55:the:1 93:to:1 134:in:1	@khloekardashian i hope i run into when your in dallas . i go to most of the games
+-1	551	 6:we:1 55:the:1 127:rt:1	bahaha #okbye rt @_elaboratebri_: u meant 3 cuz i dnt recall anybody rt @jakkifbaby @itscharronhoe i think we the only 2 lmfao...
+-1	552	 3:is:1 55:the:1 127:rt:1 145:<s>_rt:1 172:but:1 205:a:1	rt @light_truth: a cheerful heart is good medicine, but a crushed spirit dries up the bones. proverbs 17:22 #jesustweeters
+-1	553	 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	a pleasant surprise for mcdonald's: better-than-expected sales http://t.co/wp6pxcom
+-1	554	 55:the:1	i've had too many hate thoughts about itunes the last two days.
+-1	555	 54:on:1 55:the:1 70:on_the:1	on the beach just thinkin for my break...
+-1	556	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	big journalism- wi recall: seiu boss manhandles new media camera: the wisconsin-based  maciver institute has bee... http://t.co/926ryatj
+-1	557	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	obama campaign reacts to clinton on cnn - http://t.co/hzodkt1k
+-1	558	 20:#c4news:1 21:c4news:1 49:#c4news_</s>:1 50:c4news_</s>:1 61:blog:1 63:http:1 64:t.co:1 79:http_t.co:1 194:at:1	cameron live at #leveson - video &amp; analysis - live blog: http://t.co/mlq549q5 #c4news
+-1	559	 93:to:1	@studio81photo thanks, that's good to know!
+-1	560	 11:and:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1 191:are:1	rt @marzanosocial: hilarious read and interesting view points! &gt; #twitter brand pages are pointless http://t.co/ucymnhjv #socialmedia ...
+-1	561	 93:to:1 192:no:1 205:a:1	@rw20 lololol no...still a droid slut, i just know how to work my magic
+-1	562	 11:and:1 173:they:1 205:a:1	if they locked martha and ron up poor lauryn don't stand a chance!!!
+-1	563	 13:this:1 172:but:1	aye but my bae woke up this mornin handled biz this morning that's why i fuck with her ass.
+-1	564	 55:the:1 127:rt:1 129:what:1	lol. rt @saracjohnsonga: ...so, what does @danandros have against the 20-somethings???  #ageist!
+-1	565	 4:our:1 55:the:1 127:rt:1 143:us:1 145:<s>_rt:1 194:at:1	rt @peterrothberg: when i was an intern at @thenation christopher hitchens was, by far, our fave writer for the mag. he treated us well, ...
+-1	566	 3:is:1 11:and:1 55:the:1 127:rt:1 145:<s>_rt:1 191:are:1	rt @investmentsolza: the global political landscape is rapidly changing and the implications for investors are increasingly important ht ...
+-1	567	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	space shuttle enterprise heading to manhattan http://t.co/5wmg3bmq
+-1	568	 54:on:1	@aly25 on my way lol
+-1	569	 3:is:1 6:we:1 54:on:1 55:the:1	we have @camanpour on why syria is like the bosnian crisis @cnn @randikayecnn 7:15am
+-1	570	 3:is:1 9:it:1 11:and:1 127:rt:1 145:<s>_rt:1	rt @lickmy__adidas: trust is like an eraser, it gets smaller and smaller after every little mistake.
+-1	571	 3:is:1 4:our:1 11:and:1 13:this:1 55:the:1 127:rt:1 145:<s>_rt:1 190:there:1	rt @jtsantucci: the end of the war and an amazing 21 trips for our own @martharaddatz she is there this morning @gma @abc
+-1	572	 11:and:1 54:on:1 55:the:1 70:on_the:1	@sjbguitar merry christmas scott! enjoy the holidays with your wife and daughter. see you on the road. peace
+-1	573	 55:the:1 93:to:1	@gyuryeo13elf gooood luck to u tell the member i love them kkkk
+-1	574	 63:http:1 64:t.co:1 79:http_t.co:1	@youlandauxh http://t.co/3xqdrllv
+-1	575	 3:is:1 7:will:1 9:it:1 11:and:1	if your perspective is created by your mind and your soul, working co-jointly, it will create wisdom
+-1	576	 54:on:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @arts4la: #tumblrtuesday if you aren't following @newsweek, you're missing out on a consistently funny, weird, &amp; wild tumblr: htt ...
+-1	577	 55:the:1 127:rt:1 145:<s>_rt:1	rt @whattheffacts: steve irwin, famously known as “the crocodile hunter” was afraid of parrots.
+-1	578	 13:this:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 130:lie:1 134:in:1	power grab:how obama bends the rule of law (@times247) http://t.co/qtrocu3h  *shaking in my slippers* this right wing rag lying disseminator
+-1	579	 9:it:1 11:and:1 55:the:1 134:in:1	wanna see the vow, it looks super cute and has my man channing tatum in it he's  #sohot
+-1	580	 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @thenorriscole: great shout http://t.co/ofsnuxzu
+-1	581	 11:and:1 63:http:1 64:t.co:1 79:http_t.co:1	licorice treats peptic ulcers and helicobacter pylori infections #mgrimes : http://t.co/oq4sathj
+-1	582	 204:am:1	@theponda ack! ....why am i craving chinese food now?
+-1	583	 9:it:1 54:on:1 55:the:1 93:to:1 192:no:1	on af-1, pres obama phoned gov rick scott of fl to "ensure the state had no unmet needs" as it confronted tropical storm debby.
+-1	584	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	gateway pundit- greek voters back bailout – conservatives win narrow victory: voters in greece backed pro-bailou... http://t.co/6axazu0p
+-1	585	 7:will:1	i will sleep na :))))
+-1	586	 11:and:1 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	twitter / @dbcoopa: my sentiments exactly. ... https://t.co/lwcxnep7 ...and mine! lol @jphaukkavaara jp have a nice day!
+-1	587		@mikewu43 i said 52%
+-1	588	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	cbo: hurricane sandy aid would take years to spend - david rogers reports: http://t.co/fupgpghk
+-1	589	 127:rt:1 145:<s>_rt:1 205:a:1	rt @ross_the_boss23: @ima_boss_69 yeah he has a rocket lol
+-1	590	 63:http:1 64:t.co:1 79:http_t.co:1	drudge report - thanked coach, gm before pulling trigger...: thanked coach, gm before pulling trigger...(top hea... http://t.co/5gpyxyuc
+-1	591	 60:his:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 129:what:1 134:in:1	jon stewart can't figure out what to put in his mouth http://t.co/u5ucqikn
+-1	592	 55:the:1 61:blog:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 139:s:1 205:a:1	because i was in twitmo just now: scarlett_156's blog: a tweet from the twitmo jail http://t.co/hspbv6nj via @addthis
+-1	593	 205:a:1	such a funny evening with libby!
+-1	594	 9:it:1 134:in:1	"friends, lovers, or nothing. we'll never be an in between, so give it up".
+-1	595	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	napolitano to announce immigration policy changes - http://t.co/rir5u6yc
+-1	596	 15:start:1 127:rt:1 134:in:1 145:<s>_rt:1	rt @toryjohnson: good morning from @gma in times square! start your day with big holiday savings from my segment just after 8am.
+-1	597	 63:http:1 64:t.co:1 79:http_t.co:1	man's body recovered from macarthur park lake http://t.co/pma0chno
+-1	598		just kidding, celebration.
+-1	599	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	governors petition dea to reclassify medical marijuana http://t.co/ht7qogzr
+-1	600	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	olivia wilde reveals the 'scariest thing' she's ever done http://t.co/aompgh2a
+-1	601	 6:we:1 191:are:1 194:at:1	i'm getting sleepy. we are such night owls at my house.🌙
+-1	602	 54:on:1 55:the:1 70:on_the:1	@hicheekbone junsu? why he looks tall when i see him on the video lol
+-1	603	 55:the:1 127:rt:1 145:<s>_rt:1 194:at:1	rt @find_leia: thank you everyone for the #ff mentions. apologies for the recent lack of tweets, i'm not well at the moment. normal serv ...
+-1	604	 11:and:1 127:rt:1 145:<s>_rt:1	rt @xoxnikkisamonte: flynn rider: you were my new dream.       rapunzel: and you were mine.
+-1	605	 63:http:1 64:t.co:1 79:http_t.co:1	video: making college more affordable http://t.co/n3e9drny
+-1	606	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	jancis robinson's top 25 festive fizzes in part one of her unmissable christmas wine guide http://t.co/grcekuiw via @ftweekendmag
+-1	607		@johanschoeman2 excellent thank you
+-1	608	 11:and:1 55:the:1	#wheniwaslittle i played only for the love of the game and nothing else.
+-1	609	 55:the:1 93:to:1	@sherriegg the best person to ask would be @monaeltahawy
+-1	610	 3:is:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	time's person of the year is the 'protester' - @time http://t.co/lz1enzid
+-1	611		@livekelly @kellyripa #livewithkelly bones bones bones #bringbobbyback @mrbobbybones
+-1	612	 63:http:1 64:t.co:1 79:http_t.co:1	concerns over "volatile" kim jong un http://t.co/ohxjrzdx (via @cbseveningnews)
+-1	613	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 194:at:1	december consumer sentiment at highest level in 6 months http://t.co/9ep8l3dr
+-1	614	 54:on:1 55:the:1 194:at:1	tomorrow at the wh: waiting for scotus. pres obama awaits high court ruling on consitutionality of "obamacare." wh says it's constitutional.
+-1	615	 11:and:1	way cool!!! @politicsoffear @greggutfeld and my left shoulder and my 2nd favorite ear #redeye
+-1	616	 6:we:1 11:and:1 17:today:1 194:at:1 205:a:1	i'm at a loss right now...seriously...just yesterday we were talking about moving forward and being together &amp; today im cut off? idky
+-1	617	 9:it:1 63:http:1 64:t.co:1 79:http_t.co:1	involuntary transformation: http://t.co/zbo2vldb how it was #informedconsent #ptsd #medicaidfraud #fostercare #offlabel #psychotropic #drugs
+-1	618	 9:it:1 11:and:1 55:the:1 172:but:1 194:at:1 195:time:1	@betweenbrain and i can't find it - but i did tweet it at the time
+-1	619		@kicksovapussy my mom &amp; dad
+-1	620	 7:will:1 55:the:1 127:rt:1 145:<s>_rt:1	rt @calvinator_18: the name of one bangalore local will piss off all gults. jackassandhra .
+-1	621	 3:is:1 9:it:1 55:the:1 191:are:1	it is #rhov night-only rh show i watch as it's the canadian one. @jodyclaman @miaclaman are sweethearts. don't let editing fool you.
+-1	622	 55:the:1 127:rt:1 130:lie:1 145:<s>_rt:1	rt @paulmasonnews: thankx for all the comments abt crucial economic issue of tootall scarves. whole story of uk econ decline lies therein
+-1	623	 205:a:1	@weedporno420 not a clue! help me out?
+-1	624	 7:will:1 11:and:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	battles between the media and apple, google, and amazon over users and data will continue in 2013. http://t.co/l03bze8y
+-1	625	 3:is:1 63:http:1 64:t.co:1 79:http_t.co:1	officials: virginia tech shooter is second victim http://t.co/rjr649yj
+-1	626	 93:to:1 205:a:1	i love when i figure out how to do something by myself. i have a little 5 second period of proudness. #yesididitalone !
+-1	627	 127:rt:1 136:who:1 145:<s>_rt:1 173:they:1 205:a:1	rt @brtndroffortune: people who trusted lenders got steered in2 sub-prime loans when they qualifid 4 a better, less over-fuckity one. #d ...
+-1	628	 55:the:1 194:at:1	.,bruhh wea the phuck my daddy at ?
+-1	629	 11:and:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 195:time:1	curious who's investing in qr codes and other action codes? magazines. big time. http://t.co/nvnqy2pl
+-1	630	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 143:us:1 145:<s>_rt:1	rt @peterjmunson: george kennan, the pen behind cold war containment, has some lessons for us:... http://t.co/sqldtkql
+-1	631		"@god_loved: when you pray, don't give god instructions... just report for duty!"
+-1	632	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	passed: s.res. 470: a resolution designating july 28, 2012, as "national day of the american cowboy". http://t.co/uwttmbl6
+-1	633	 3:is:1 54:on:1 55:the:1 63:http:1 64:t.co:1 70:on_the:1 79:http_t.co:1	dj earworm is back on the scene #decent http://t.co/hicv3tyh
+-1	634	 54:on:1 55:the:1 92:israel:1 127:rt:1 145:<s>_rt:1 174:r:1 205:a:1	rt @truthreportnow: the heads r exploding & imploding, @governorperry biblical on israel; standing up "oh jerusalem" city on a hill, how ...
+-1	635	 9:it:1 11:and:1 55:the:1	when life hands u lemons, squeeze lemon juice into life's eyes and then beat the mess out of life while it can't see! #imjustsaying
+-1	636		period 2 underway. #lakings lead #njdevils 3-0
+-1	637	 93:to:1 127:rt:1 134:in:1 145:<s>_rt:1 191:are:1 205:a:1	rt @imsure: glory to god...mommy & baby are in recovery~ blessed&thankful for such a wonderful twitter family~ @seectweet @twiggyoh @pre ...
+-1	638	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 199:2011:1	the best animal photos of 2011 http://t.co/fib5om7u
+-1	639	 93:to:1	@andersoncooper @i_am_erin_24 way to go anderson! impressive!
+-1	640	 3:is:1	so many actors claim brokeness then their coffee order is $11.68.
+-1	641	 9:it:1 55:the:1	so, it really was an earthquake (confession from the 29th floor).
+-1	642	 7:will:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	stephen mansfield: 8 reasons religion will help define the path to the white house http://t.co/nrgslazq
+-1	643	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 194:at:1	the #1 most important thing to have at your wedding http://t.co/l16rrfxp via @huffpostwedding
+-1	644	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	dry winds trigger red-flag fire warning in l.a., ventura counties http://t.co/nyosiysg
+-1	645	 3:is:1 60:his:1 93:to:1 204:am:1 205:a:1	i am going to attend a kid cudi concert ..when he comes back from his hiatus that is.
+-1	646	 55:the:1	@ramondeveyra the douchebags
+-1	647	 17:today:1 54:on:1 134:in:1 191:are:1 205:a:1	lovely sunrise here on xmas eve morning. wrens are singing in my courtyard. farmer's markets beckon. a day of baking today. have a good one!
+-1	648	 3:is:1 55:the:1 127:rt:1 145:<s>_rt:1	rt @quoteauthority: love is the best medicine. overdose can kill you.
+-1	649	 55:the:1 93:to:1	ok so i've come to the conclusion that dennis miller isn't funny.
+-1	650		grocery shopping &gt;&gt;&gt;&gt; putting up groceries
+-1	651	 63:http:1 64:t.co:1 79:http_t.co:1	pale pink  2 tier rose  granny squares,  7"x 7 ", 10 pcs. http://t.co/9qat8w3r
+-1	652	 63:http:1 64:t.co:1 79:http_t.co:1	obama cites mass shootings http://t.co/bbd47hps
+-1	653	 127:rt:1 145:<s>_rt:1	rt @xsjuul: yolo. - you're only youn once
+-1	654	 55:the:1 93:to:1 127:rt:1 145:<s>_rt:1 192:no:1	rt @she_bossy_: hate when someone tries to judge or downplay another when they're no better than the next person. sure you may not agree ...
+-1	655	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	maybe it's cool, to be uncool. - polyvore http://t.co/edmm4ypt
+-1	656	 127:rt:1	lool amen oh! rt @ama_a: @djstepherz hahaa new year prayer points o
+-1	657	 6:we:1 93:to:1 127:rt:1 145:<s>_rt:1 172:but:1	rt @lolgop: to be clear: we can't say "vagina" but you can be an asshole.
+-1	658	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 145:<s>_rt:1	rt @ftmaterialworld: wang officially moves to balenciaga, more than doubles workload http://t.co/tkedzty3
+-1	659	 3:is:1 9:it:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 136:who:1 205:a:1	elizabeth, who owns a small it company, talks about the ways president obama is helping entrepreneurs like her: http://t.co/2qpwr2r0
+-1	660	 93:to:1	stellaaaaaaaa would to take me hooooomeeee?
+-1	661	 54:on:1 55:the:1 63:http:1 64:t.co:1 70:on_the:1 79:http_t.co:1	good morning! do you have #newnewtwitter? ten takeaways on the redesign from @fromedome: http://t.co/oatewk5g
+-1	662	 13:this:1 63:http:1 64:t.co:1 79:http_t.co:1	leading politico this morning -- second-guessing obama: http://t.co/mago6tou
+-1	663	 205:a:1	@lysx0x69. "your a big headed bully."
+-1	664	 55:the:1	watching "jumping the broom" w/ aubrey ann :/
+-1	665	 3:is:1 63:http:1 64:t.co:1 79:http_t.co:1 190:there:1 205:a:1	@daveweigel "is there such a thing??" http://t.co/xozvcugc
+-1	666	 172:but:1	but ah heard u got squabbles n u cray cray @mulattobawse
+-1	667	 3:is:1 54:on:1 55:the:1 93:to:1 127:rt:1 145:<s>_rt:1 191:are:1 194:at:1	rt @tgiovanetti: one thing is clear: the debate audiences are chomping at the bit to get on with running against obama. #iowadebate
+-1	668	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 145:<s>_rt:1 194:at:1	rt @familymwr: eighth army band to play at korea's premier venue http://t.co/jlgvekk9
+-1	669	 3:is:1 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1	romney super pac now on tv with "private sector is doing fine" ads. http://t.co/a2gvhwff
+-1	670	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1	taegangoddard: effects of court decision on campaign still not clear http://t.co/43powx3k
+-1	671	 190:there:1	@alexjkirby i grew up there
+-1	672	 205:a:1	@winceywillis1 that's quite a menacing look actually!
+-1	673	 11:and:1 205:a:1	louisville had a 17 point lead and only won by 3.. 80-77 #stillproudofmycats
+-1	674	 3:is:1 11:and:1 55:the:1 63:http:1 127:rt:1 145:<s>_rt:1	rt @cshirky: nyu's journalism innovation program, led by @jayrosen_nyu (and where i teach), is taking applicants for the fall: http://t. ...
+-1	675	 2:britain:1 3:is:1 7:will:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 172:but:1 194:at:1	uk "will look at strengthening imf funds but imf is for helping countries not the euro", british pm cameron says http://t.co/j8exwgn9
+-1	676	 63:http:1 64:t.co:1 79:http_t.co:1 189:vote:1	why i voted for ron paul http://t.co/xi2yjamr
+-1	677	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	the #occupywallstreet film series has arrived http://t.co/wfn8wlaa
+-1	678		tucking into roast potatoes, yum! great boxing day!
+-1	679	 11:and:1 93:to:1 190:there:1	theres never going to be any milk and honey so just be happpy with your piizza and beer
+-1	680	 127:rt:1 134:in:1 145:<s>_rt:1 192:no:1	rt @sarakonkel: no one really ever wins in heartbreak warefare. #jm
+-1	681	 3:is:1	how is tony romo's hand doing?
+-1	682	 205:a:1	happy last day! great day for a cider@jessp3000 @seesawdesign @ifarchitecture @concreterobot3d @mskimby @andysociai @anitaryley @mmmmkenzie
+-1	683	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @occupy_usa: #ndaa editorials/commentary: with defense authorization act, the terrorists win ... - salt lake ... http://t.co/z6plcyuj ...
+-1	684	 55:the:1 191:are:1	@espn the ravens aren’t peaking, the giants are descending.
+-1	685	 54:on:1 127:rt:1 136:who:1 145:<s>_rt:1 205:a:1	rt @kristenkaniece: "@ayeedenno_o: lmfao ! who puts their child on a leash ? -_-"&lt;-- white people lol
+-1	686		@lesmurraysbs do you think greece has any chance against russia les?
+-1	687	 63:http:1 64:t.co:1 79:http_t.co:1	reuters- california governor signs budget, closing deficit: san francisco (reuters) - california governor jerry ... http://t.co/hdy8udam
+-1	688	 205:a:1	i love a cute red/yellow bone chick
+-1	689	 3:is:1 9:it:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 134:in:1 145:<s>_rt:1	rt @appropsdems: #budget conference agreement (h.r.2055) is online http://t.co/mqaz9ygz all house dems have signed it. rules meets in 10 ...
+-1	690	 9:it:1 13:this:1 55:the:1 93:to:1 127:rt:1 145:<s>_rt:1	rt @hesiod2k11: obama has the plenary power to pardon all federal crimes rt “@davidfrum: can this be authentic? it seems impossible unde ...
+-1	691	 63:http:1 64:t.co:1 79:http_t.co:1	son says mitt romney was reluctant presidential candidate. http://t.co/8telyo1r
+-1	692	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 195:time:1	time - the page: real numbers http://t.co/rordj5ym full http://t.co/wuhgdbpb
+-1	693	 55:the:1 93:to:1 134:in:1	i sang in the elevators believing i was going to heaven.  p. orlovsky  #orlovsky
+-1	694	 205:a:1	clay matthews a fine ass white boy tho
+-1	695	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 129:what:1 134:in:1	69-yr-old woman in palm springs accused of trying to cut off husband's penis http://t.co/yxk0sct8 not clear what prompted attack
+-1	696	 134:in:1	@nickkrhodess ya seriously. ughh change in hotel next year??
+-1	697	 93:to:1 129:what:1	what do you want from st. nick? send your holiday wishes to @letterstosanta!
+-1	698	 6:we:1 54:on:1 55:the:1 70:on_the:1 93:to:1 136:who:1 191:are:1	"we are training people who are going to run for office down the road" - marlon marshall, on the border states strategy #roots12
+-1	699	 127:rt:1 145:<s>_rt:1	rt @annemawsonx: @tammy_hewstone thank you! :)
+-1	700	 3:is:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 145:<s>_rt:1	rt @esa: rt @esascience: #comet lovejoy is heading closer & closer to the sun. updated article w/ new pics & animation: http://t.co/tglw ...
+-1	701	 9:it:1	i tell that bitch it's more attractive when you hold it down ...
+-1	702	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 129:what:1 145:<s>_rt:1 205:a:1	rt @nonprofitmediaw: you're giving a speech.you expect 200. 8 show up. what should you say to audience about small crowd? http://t.co/iw ...
+-1	703	 3:is:1 11:and:1 12:strong:1 55:the:1 127:rt:1 145:<s>_rt:1	rt @scottanansi: #occupycal is being raided by #ucpd. hold the line! keep your heads up and hearts strong. #occupysf #ows #oo
+-1	704	 54:on:1 127:rt:1 145:<s>_rt:1	rt @oratv: new #larrykingnow: @therealrussellp @rove &amp; @natashaleggero sound off on 2day's #political &amp; #popculture headlines ht ...
+-1	705	 4:our:1 7:will:1 17:today:1 63:http:1 64:t.co:1 79:http_t.co:1	@real_liam_payne (triplets) "mum, did liam see our video yet? (me) "maybe today he will". plz let me tell them u have: http://t.co/dlz2rmsa
+-1	706	 55:the:1 93:to:1 173:they:1 205:a:1	@abov3itall lol yeah they said something about a special harness that attaches to the seatbelt
+-1	707	 3:is:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 143:us:1 145:<s>_rt:1	rt @dallas_picks: latest mentions for ghostbar: http://t.co/zl53ilqa - rt @collinsontop ghost bar is good enough for us :)
+-1	708	 63:http:1 64:t.co:1 79:http_t.co:1	stars, atheists remember christopher hitchens http://t.co/pmo9vour
+-1	709	 54:on:1 93:to:1 134:in:1	why do people on facebook invite me to night club events in italy?:l
+-1	710	 8:make:1 11:and:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	surrogate mums hold emergency talks over qld govt plans to make the process illegal for singles and same-sex couple http://t.co/qlwqywrc
+-1	711	 9:it:1 11:and:1 55:the:1 93:to:1 194:at:1 205:a:1	just a warning. if it comes to it, i'm more than willing to logic you across the floor while you look at your shoes and ignore it all. #urgh
+-1	712		@marywho4810 pleasure. merry christmas!
+-1	713	 54:on:1 134:in:1 205:a:1	my spark finally went out.thanks @northern_spark for a magic night. ready for openstreets on lyndale in 8 hrs
+-1	714	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	the guardian front page: cable attacks 'whingeing' city #skypapers http://t.co/pyo2oxp0
+-1	715	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	bachmann loses iowa campaign chair to ron paul http://t.co/bkaftv82
+-1	716	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 129:what:1	what coke doesn't want you to know about it's new mascot http://t.co/1skrsq6g
+-1	717	 54:on:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @justintrudeau: sat down for a chat with evan solomon on cbc's the house. listen here: http://t.co/vhmyywwg
+-1	718	 205:a:1	voicemail: i'm calling for brandon stone  brandon: suck a dick nigga
+-1	719	 63:http:1 127:rt:1 145:<s>_rt:1 172:but:1	rt @foxnews: gop presidential hopeful gingrich takes heat for calling palestinians 'invented,' but he still backs statehood bid: http:// ...
+-1	720		@tasha_ukgodess good morning gorgeous
+-1	721	 93:to:1 195:time:1	lmao everytime i listen to summer time by vybz i want to go wwyyllldddd
+-1	722	 51:non:1 93:to:1 192:no:1	@donlinn oh no! nokia fired you too? so desperate, they're now firing non-employees to try to survive!
+-1	723	 127:rt:1 145:<s>_rt:1 205:a:1	rt @pass_dateqila88: you're so annoying, you're probably one of those bitches that can fold a fitted sheet.
+-1	724	 7:will:1 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	tpm election central: dems redouble efforts to break house gop will on payroll tax cut http://t.co/9wccacaz full http://t.co/de7u1gst
+-1	725	 55:the:1	@karljcollins do you agree with the choice, karl?
+-1	726	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 143:us:1	the rspb: campaign with us: step up to save nature: http://t.co/ltucpcit via @addthis
+-1	727	 93:to:1 127:rt:1 145:<s>_rt:1 173:they:1	rt @he_run_the_nite: niggaz just freely throw they number out to anybody lol
+-1	728		if i see another tweet dat say shit like "money i gets dat. ass he grabs dat" ima say "ur ass i unfollowed dat"
+-1	729	 63:http:1 64:t.co:1 79:http_t.co:1	#webstershooting press conference beginning now. watch here: http://t.co/oktxadng #13wham
+-1	730	 11:and:1 93:to:1 127:rt:1 134:in:1 145:<s>_rt:1 205:a:1	rt @danteatkins: conservatives want to have guns and prayer in schools. say, that sounds kind of like a madrassa.
+-1	731	 127:rt:1 139:s:1 145:<s>_rt:1 205:a:1	rt @redefiningswag_: rt for a s/o (:  ( only if i know you , i may do yours if you cute tho ) [:
+-1	732	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 191:are:1 194:at:1	at least 436 people are dead after tropical storm washi pummeled the philippines, the red cross says. http://t.co/hjmr3z6p
+-1	733	 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @huffpostmoney: new tax scam targets military members http://t.co/u6gg8r0n
+-1	734	 63:http:1 64:t.co:1 79:http_t.co:1	@ralasdair here you go: http://t.co/t6vyxjch
+-1	735	 13:this:1	i love this weather. #rainysunday
+-1	736	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 194:at:1 205:a:1	secretary clinton delivers remarks at a press conference in burma http://t.co/4qwn5wod
+-1	737	 6:we:1 127:rt:1 145:<s>_rt:1 194:at:1 205:a:1	rt @cathamullen: where do we come from? @corybooker at #stanfordgraduation: "we're physical manifestations of a conspiracy of love"
+-1	738		devil want my soul (8)
+-1	739		" here kitty kittyy❗" 😋
+-1	740	 13:this:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 194:at:1	i really hope he plays this song at the show next week. #boniver http://t.co/y9ytzipa
+-1	741	 93:to:1 127:rt:1 129:what:1	"@funnyjokebook: what did barack obama say to michelle when he proposed? "i don't wanna be obama self.""rt kmsl
+-1	742	 9:it:1 55:the:1 134:in:1 172:but:1	i know people don't mean it but i hate when ppl say "i wanna fuck the shit outta you" i don't want any shit involved in any sex ever lmao
+-1	743	 63:http:1 64:t.co:1 79:http_t.co:1	americans cannot get enough avocados http://t.co/dllfkphm
+-1	744	 93:to:1	im movinq bac to columbus. back to 16hr days. chedda chasin
+-1	745		mehn wtf was dat ???? gosh !!!
+-1	746	 55:the:1	@wheelersaywhat luckily you don't fulfill the rest of that statement ;)
+-1	747	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	boehner to obama: quit "badminton" -- @jakesherman reports: http://t.co/xklm2dcx
+-1	748	 93:to:1 205:a:1	you can be homeschooled, though if you hadn’t gone to a secondary school, you might need to get help."
+-1	749		@quotingswag i luv your tweets!! u have better quotes than.me!
+-1	750	 3:is:1 11:and:1 127:rt:1 134:in:1 173:they:1 191:are:1 205:a:1	hope they are right. rt @ethanogle just got a message from someone i trust that said harris poll is in and that alabama is in bcs title game
+-1	751	 3:is:1 9:it:1 60:his:1 93:to:1 127:rt:1 129:what:1 145:<s>_rt:1 172:but:1 205:a:1	rt @sophianthegreat: frank ocean is officially my favorite artist. idk what it is but i have a peace of mind when i listen to his music.
+-1	752	 8:make:1 205:a:1	#headsogood make ya wanna marry a nigga
+-1	753	 63:http:1 64:t.co:1 79:http_t.co:1	ge targets double-digit earnings growth http://t.co/d9dlf7tn #financialtimes
+-1	754		never mind, i got unfollowed
+-1	755	 13:this:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @joncarson44: president obama: "let’s get this done" #my2k http://t.co/qcs8rikp
+-1	756	 63:http:1 64:t.co:1 79:http_t.co:1	nevada considering giving undocumented immigrants drivers licenses. http://t.co/acbms5zu
+-1	757	 93:to:1	bout to get somethingg to eat !
+-1	758		finna get otp.....
+-1	759	 54:on:1	rambo watchin old nikkita on cbs action
+-1	760		@willsmith amazon gift card
+-1	761	 205:a:1	a simple good morning, have a great day, or i love you, goes a long way...
+-1	762	 3:is:1 55:the:1 60:his:1 93:to:1 172:but:1	i hate peter andre so much, but the way his is to his girlfriend is sooo cute #blesshim
+-1	763	 13:this:1 63:http:1 64:t.co:1 79:http_t.co:1	naughty or nice? this was pretty fun! http://t.co/xvx1ofht @weareglitterati #yelpelite @doublehappohio
+-1	764	 54:on:1 55:the:1 93:to:1 127:rt:1 145:<s>_rt:1	rt @rgwiszcz: @biafrew just threatened to call the cops on me
+-1	765	 55:the:1 93:to:1	the higher the hair the closer to god. @sthrnproblems #outofhairspray
+-1	766	 60:his:1 63:http:1 64:t.co:1 79:http_t.co:1	another pro-gun democrat flips his position http://t.co/jqufxqkv
+-1	767	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	avoiding the movie http://t.co/rwchcxio
+-1	768	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 134:in:1 145:<s>_rt:1	rt @todayshow: up to 2 feet of snow expected in northeast. video: http://t.co/ranfxt1j
+-1	769	 6:we:1 55:the:1 93:to:1 129:what:1 143:us:1	we hear what the government wants us to hear
+-1	770	 5:home:1 63:http:1 64:t.co:1 79:http_t.co:1	makeshift bomb explodes outside greek ex-minister's home http://t.co/vxghuroz
+-1	771	 63:http:1 64:t.co:1 79:http_t.co:1	niagara falls :) http://t.co/vp6kcikq
+-1	772	 63:http:1 64:t.co:1 79:http_t.co:1	pfc 3/8" x 1-1/2" hex head lag screws zinc plated - 100 per box: pfc hex head lag screws - also known as lag bol... http://t.co/tlbk8ckg
+-1	773	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	all 8 alleged victims of ex-psu coach sandusky to testify - abc news http://t.co/qeler9oz
+-1	774	 60:his:1 93:to:1	@cubfanbeergu can't argue with oneself. juan does his job was  hired to do like or not.
+-1	775	 63:http:1 64:t.co:1 79:http_t.co:1	why you'll be shocked by your retirement fund http://t.co/fsxkdofv
+-1	776		post tweet macam spam. haha.
+-1	777	 9:it:1 11:and:1 55:the:1 134:in:1 172:but:1	yo...but in real life...i looove my life and the people within it whom fill it with love and laughter
+-1	778	 192:no:1	paul asked if government should do anything for health care education. paul, of course, says no. #iowadebate
+-1	779	 55:the:1 93:to:1 127:rt:1 143:us:1 145:<s>_rt:1 205:a:1	rt @lolgop: asked to find a married couple hurt by gay marriage, the gop said, "let us find a small businessman hurt by the millionaire  ...
+-1	780		@heidi_jackson yayyyyyyy!!!!
+-1	781	 6:we:1 7:will:1 28:we_will:1 54:on:1	“we will go on. we will find strength.” - gov dannel p. malloy on connecticut.
+-1	782		@familiarwldrnss thanks.
+-1	783	 63:http:1 64:t.co:1 79:http_t.co:1	#youtube amazing burj khalifa fireworks 2013 downtown burj dubai http://t.co/gaxx3vej
+-1	784	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 129:what:1 145:<s>_rt:1	rt @fmanjoo: what stands out to you about buzzfeed's books of the year? (look closely.) http://t.co/rc3namtn
+-1	785		@omgcuhristal omg. #youneedjesus
+-1	786	 3:is:1 93:to:1	julissa b is lame as hell to me though...
+-1	787	 9:it:1	@screenwriter_47  you would get your point across more clearly if you actually expresed it.
+-1	788	 54:on:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	perry challenged on gays in the military, energy policy http://t.co/rx3hgjis
+-1	789		lol @giveuptha__ crazy
+-1	790	 63:http:1 64:t.co:1 79:http_t.co:1	white house: concerned about commerce chief's health   http://t.co/0ji3yg0z
+-1	791	 93:to:1 129:what:1	@pkelsthegreat what i like to hear
+-1	792	 63:http:1 64:t.co:1 79:http_t.co:1	do regulations really "kill" jobs? (video) http://t.co/zpidfdhr
+-1	793	 93:to:1	trying unsuccessfully to find my indignation over gay rick perry staffer outing by goproud after perry's recent homophobic ad. #needmasgrace
+-1	794	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 127:rt:1 145:<s>_rt:1	rt @nukes_of_hazard: house finally ready to move legislation for 2 key nuke terror prevention treaties http://t.co/ik0cevwi. bckground h ...
+-1	795	 63:http:1 64:t.co:1 79:http_t.co:1	photoset:  http://t.co/e2t2thvz
+-1	796	 6:we:1 9:it:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	canada free press- the other america: if we have learned anything from the most recent presidential election, it... http://t.co/hbhk0sly
+-1	797		omg 'clockwork angel.' &gt;&lt; gaahhh
+-1	798	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 205:a:1	young hypnotist summons help when girls get stuck in a trance  http://t.co/oys7e2nl
+-1	799		gosh, i sort of miss herman cain's chatter.
+-1	800	 55:the:1	bullshit that should be the word of the day
+-1	801	 9:it:1 93:to:1 176:doe:1 187:doe_</s>:1	going threw hell trying to get it. ima stay down doe
+-1	802	 63:http:1 64:t.co:1 79:http_t.co:1	lone wolf crosses into california from oregon http://t.co/osai1lbx
+-1	803	 3:is:1 9:it:1 63:http:1 64:t.co:1 79:http_t.co:1 92:israel:1 93:to:1	hamas says it is ready to halt cross-border violence if israel follows suit - @reuters http://t.co/jlxvirk4
+-1	804	 11:and:1	@sammiepuckett *squints my eyes and closely examines you* you're not acting like yourself. what's up?
+-1	805		@niallofficial @harry_styles @zaynmalik @louis_tomlinson @real_liam_payne that was perfect. sososososo proud of you 5 :') &lt;3
+-1	806	 14:future:1 55:the:1 191:are:1 192:no:1	nhl players' association says the league has rejected its latest offer; no future talks are planned - @citynews
+-1	807	 3:is:1	all i want for winter solstice is you :) &lt;3
+-1	808	 127:rt:1 145:<s>_rt:1 173:they:1	rt @eodalak_: bitches aint shit &amp; they aint sayin nuffin!
+-1	809	 129:what:1	what do you think of @mittromney's $10k bet? #vote2012
+-1	810		@kingeric14 we'll see.....
+-1	811	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	video: president obama speaks to servicemembers on christmas http://t.co/9m85prmw
+-1	812	 4:our:1 6:we:1 194:at:1	@superwrench4 i guess we shouldn't generalize? i just find myself shaking my head at "our side" too much.
+-1	813	 93:to:1 129:what:1	@vixxylix what happened to that defence lass yesterday anyway? she just give up?
+-1	814	 9:it:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 192:no:1 205:a:1	a policy change could let #instagram use your pics in ads w/o pay.will you still use it? yes http://t.co/1bcz5zk7 or no http://t.co/lip2mxup
+-1	815	 93:to:1	18 days left...:/ gonna have to keep myself busy until then!
+-1	816	 55:the:1 93:to:1 134:in:1	@hechanova i think i need business cards... something in latin perhaps w/ obscure references to the ottoman empire.
+-1	817	 63:http:1 64:t.co:1 79:http_t.co:1 173:they:1	group claims they faked video of eagle stealing baby http://t.co/ujtbuc3z
+-1	818	 205:a:1	i need a drink, im so hot right now
+-1	819		i get so many texts!!!!! ((from my service provider))
+-1	820	 3:is:1 11:and:1	#newtwitter is about simplicity and discovery
+-1	821	 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @dpnationalnews: tv actor jack klugman of "odd couple," "quincy" fame dies http://t.co/i52mqsxu
+-1	822	 55:the:1	@newshour thanks for the tweet!
+-1	823	 63:http:1 64:t.co:1 79:http_t.co:1	#indycar star dan #wheldon killed by fence pole, says independent report. http://t.co/0n2nvkzc
+-1	824	 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @boardroomwomen: progress of women into top leadership positions still uneven #canada http://t.co/f8xpjnxi
+-1	825	 11:and:1 54:on:1 127:rt:1 134:in:1 145:<s>_rt:1 173:they:1 174:r:1 184:they_r:1	rt @javalemcgee34: insecurities come out on twitter.... look @ someone's timeline and see how insecure they r! alot of hate? yup they in ...
+-1	826		@lucewhite_x 'juicylucy' oh babe! thats brilliant! hahaha
+-1	827	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 192:no:1 194:at:1	another positive step in combating #obesity: @disney no longer airing ads aimed at children for unhealthy food products http://t.co/klzrtuyb
+-1	828	 3:is:1 55:the:1 93:to:1 127:rt:1 145:<s>_rt:1 190:there:1 192:no:1 205:a:1	rt @steaknstiffarms: there is no excuse for child abuse. the anonymous, confidential hotline to report child abuse is 1-800-4-a-child. p ...
+-1	829	 134:in:1 205:a:1	it's a good thing i don't have a credit card. yet. i would have bought all these things in a jiffy.
+-1	830	 7:will:1 11:and:1 55:the:1 127:rt:1 129:what:1 136:who:1 145:<s>_rt:1	rt @ayasandya: "i'm gonna keep breathing. because tomorrow the sun will rise, and who know what the tide could bring?" - cast away
+-1	831	 63:http:1 64:t.co:1 79:http_t.co:1	games 4 health webinar juxtaposes gaming with healthy lifestyles - http://t.co/qfuqbkee #games4health
+-1	832	 6:we:1 9:it:1 54:on:1 55:the:1	@conorsen for last 30 yrs we have focused on quantity of jobs vs the quality of jobs. it has become an either/or prop. we’ve chosen poorly.
+-1	833	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 134:in:1	'barefoot bandit' colton harris-moore sentenced to 6 years in jail - @king5seattle; live video:  http://t.co/aa0c0hei
+-1	834	 55:the:1 134:in:1 191:are:1 205:a:1	you are you going too the naughty corner in a moment 😂😂😂😂
+-1	835	 9:it:1 136:who:1	i have new phone number for those who want it
+-1	836	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1	the gop would rather nominate... http://t.co/u8qqili4
+-1	837	 205:a:1	@trapstar_young a box or a klean ass monte carlo ss t-top
+-1	838	 173:they:1	@ailean @musicmadmarc @snowpatrolband they really do. can't wait for sunday
+-1	839	 127:rt:1 134:in:1 145:<s>_rt:1	rt @benwood: arise sir jonathan ive! well deserved knighthood for apple's designer in new year honours list. #apple
+-1	840		@ohmeoh_maya it'll fly by.
+-1	841		@rebeccafmusic x
+-1	842	 11:and:1 191:are:1	"@jammiesays: “@emileeforner: math and grammar are common small talk topics between @steph_ward and i. #geeky” #gifted" eh, i'd say #lame
+-1	843	 17:today:1 63:http:1 64:t.co:1 79:http_t.co:1 195:time:1 200:senate:1	most emailed today: senate posts disbursements online for first time. http://t.co/38hpmhby via @rollcallamanda
+-1	844	 93:to:1	@pedalstudio unless sombody been eating to much protein
+-1	845	 7:will:1 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1	sandusky defense will key on credibility of witness http://t.co/8ztkqfto
+-1	846	 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	just posted a photo  @ lake city inn http://t.co/qd8awv5x
+-1	847	 3:is:1 9:it:1 11:and:1 13:this:1	finally watching rizzoli and isles since all of my homework is already finished...this show has reached new levels of gayness. i love it.
+-1	848	 63:http:1 64:t.co:1 79:http_t.co:1 200:senate:1	sen. jim demint resigns from senate http://t.co/1i2qsztx by @alexanderbolton
+-1	849	 63:http:1 64:t.co:1 79:http_t.co:1 200:senate:1	senate leaders scramble for last-minute fiscal cliff deal http://t.co/phoa2ztb
+-1	850	 63:http:1 64:t.co:1 79:http_t.co:1	welcome 2013 http://t.co/cnsgv770
+-1	851	 63:http:1 64:t.co:1 79:http_t.co:1	@motivatorsuper unfollowed me [ checked by http://t.co/2qhzy5pq ]
+-1	852	 127:rt:1 145:<s>_rt:1	rt @laurajillx: @supportstyles1d gooood morning babe! x
+-1	853	 55:the:1 93:to:1 134:in:1	discussing with sanders how hes going to survive the end of the world by hiding in the fridge
+-1	854	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	immediate demolition to begin on l.a. freeway overpass bridge damaged by wednesday's gasoline tanker fire  http://t.co/5nbjoia7
+-1	855	 63:http:1 64:t.co:1 79:http_t.co:1 85:germany:1 93:to:1 130:lie:1 134:in:1	world news daily- lying 'forest boy' to be sued for $25,000: (telegraph) — german social authorities in berlin w... http://t.co/qmdfplix
+-1	856	 127:rt:1 145:<s>_rt:1 174:r:1	rt @davidmdrucker: sen mike johanns (r-ne) endorses @mittromney
+-1	857		@boobiefresh real shit
+-1	858	 63:http:1 64:t.co:1 79:http_t.co:1	these new yorkers look great because... http://t.co/ntd8tbqe
+-1	859	 93:to:1 127:rt:1 145:<s>_rt:1	rt @fuckur_thoughts: rt “@roseae__: i hardly understand myself , so i wouldn't expect you to understand me.”
+-1	860	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 86:#navy:1 87:navy:1 93:to:1 127:rt:1 136:who:1 145:<s>_rt:1	rt @repmikerogers: house passes bill, includes my provision http://t.co/wsm35nvh to begin returning the remains of #navy commandos who d ...
+-1	861	 63:http:1 64:t.co:1 79:http_t.co:1	rajoy defends ‘victory’ for eu credibility http://t.co/td42wigp
+-1	862	 17:today:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1 191:are:1	more opposition protests are planned for today in cairo http://t.co/8n6aomwj
+-1	863	 14:future:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 134:in:1 145:<s>_rt:1	rt @nbcnightlynews: white house wants black boxes in all future cars http://t.co/fi6gbuuc
+-1	864	 11:and:1 134:in:1	@_terrancelee don't be shy. p.s -jeny and i diedddddd in class while watching vids of you hahahaa
+-1	865	 11:and:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 205:a:1 230:a_http:1	fox news politics- talks to avert fiscal crisis sour: just when house speaker john boehner and president obama a... http://t.co/ysawyq88
+-1	866	 9:it:1	@2braidz_  don't use it!
+-1	867	 11:and:1 127:rt:1 134:in:1 145:<s>_rt:1	rt @king_tut12: how do you shake my hand and gossip about me all in one night?? lol smh
+-1	868	 6:we:1 172:but:1 173:they:1	@lisaphilbin hahaha yeah! but we didn't win :( they gave away 16 or so walgreens giftcards
+-1	869	 55:the:1 191:are:1	the neighbors are arguing...sounds serious. #awkward #homealone
+-1	870	 127:rt:1 145:<s>_rt:1	rt @marnus3: apparently guns do kill people. #nra #p2 #fuckthenra
+-1	871	 63:http:1 64:t.co:1 79:http_t.co:1	your morning speed read http://t.co/jjfefzqw
+-1	872		love that song bwanji...
+-1	873	 63:http:1 64:t.co:1 79:http_t.co:1	michigan gov. rick snyder vetoes concealed-weapon bill: http://t.co/i7hzmrll
+-1	874	 6:we:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1 134:in:1 143:us:1	we have dramatic new video of the gunman in the hollywood shootout given to us by an eyewitness: http://t.co/84p5qaxo
+-1	875		awww xoxos!!!! "@suavedme: @carmellafierra gives me butterflies...."
+-1	876	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @chinaletter: taiwan: the biggest losers of the presidential campaign - taipei times http://t.co/5xcdjryc
+-1	877	 3:is:1 13:this:1	check this video out - troubadours: carole king / james taylor   authentic footage is awsome.
+-1	878		@themindofralph lol! childish
+-1	879	 3:is:1 54:on:1 55:the:1 70:on_the:1 136:who:1	yo who is number 30 on the heat? that nigga raw!!!!
+-1	880	 63:http:1 64:t.co:1 79:http_t.co:1	ganteng won xd "@cp_siwon: smile :) http://t.co/vf3ornbh"
+-1	881	 9:it:1 11:and:1 55:the:1 134:in:1	banks have been "the cog" in the economy and these jack asses act like it's frikkin business as usual - and have gotten away with it...
+-1	882		@raqc thats awesoms girl
+-1	883	 55:the:1 127:rt:1 145:<s>_rt:1	rt @eli_montanaa: the jets fucking up, again. lol.
+-1	884	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 136:who:1 205:a:1	answer: a fort carson #soldier; question: who competed on @jeopardy? http://t.co/uz2kfnqo
+-1	885		@mmartinitus i bet you thought i was sleeping. remember i'm always watching 👀👀👀👀👀👀👀👀👀👀👀👀👀
+-1	886	 54:on:1 127:rt:1 145:<s>_rt:1	rt @infnyc why does unfollowing someone on twitter hold so much power? petty fucks.
+-1	887	 11:and:1 127:rt:1 194:at:1	of course rt @touch_me_de: and yo fav has been inspired by lady gaga at some point ...
+-1	888	 3:is:1 11:and:1 127:rt:1 145:<s>_rt:1	rt @nikitamarceau: change is good... and sometime necessary!
+-1	889	 6:we:1 11:and:1 55:the:1 94:buy:1 127:rt:1 134:in:1 145:<s>_rt:1	rt @ihatedonte: so why we walk in foodlion and the big bad of doritos buy one get one free #cashinout 😭😂😅
+-1	890	 13:this:1 172:but:1	i know this isn't your first but it's better than your last...
+-1	891	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @viewhiphopnow: new music: @pill4180 - if i ruled the world freestyle | #viewhiphop http://t.co/2wpihe9z &lt;----listen & download here
+-1	892	 9:it:1 93:to:1 127:rt:1 145:<s>_rt:1	rt @perlapell: just to clarify, when i say "i just decorated my tree" it means i vagazzled.
+-1	893	 8:make:1	@mikeroe  - siri, do these pants make me look fat? - sorry, i cannot answer that without self-destructing.
+-1	894	 55:the:1 93:to:1 134:in:1 205:a:1	from 6 april 2013 hmrc intends to remove esc b47, thereby removing the ‘renewals basis’ for replacing assets in a furnished property...
+-1	895	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	photo: secretary clinton unveils the 2012 trafficking in persons report http://t.co/rrhubyaq
+-1	896	 63:http:1 64:t.co:1 79:http_t.co:1	omg trampoline! (video) http://t.co/gzkc0t5v
+-1	897	 13:this:1 55:the:1 134:in:1	this just in: romeo crennel has been fired as head coach of the kansas city chiefs
+-1	898	 55:the:1	@rachellefriberg i appreciate your skepticism...the campaign says it's hers.
+-1	899	 127:rt:1 145:<s>_rt:1	rt @highon_tweets: i'm someone you'll regret losing, i can promise you that much.
+-1	900	 173:they:1	@manayugiohgx5ds when kaito take ppl souls, do they die? o.o
+-1	901	 10:safe:1 11:and:1 55:the:1 93:to:1	merry christmas to all! peace, hope, joy and love. all the blessings of family &amp; friends, good food, good times, safe travel to each of you!
+-1	902	 54:on:1 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 205:a:1	the mainstream media has largely ignored a recent spate of violence on transgender women http://t.co/ybj4etc1
+-1	903	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1	facebook on wwii  @nei_brise lol http://t.co/q88md6i5 via @9gag
+-1	904	 93:to:1	welllllll i guess ill be going to sleep early tonight .
+-1	905	 13:this:1 54:on:1	she has this huge lump on her belly &amp; it's only getting bigger!
+-1	906	 63:http:1 64:t.co:1 79:http_t.co:1 192:no:1	disney star says no one believes she's latina (exclusive) http://t.co/neuymuuk
+-1	907	 127:rt:1 145:<s>_rt:1	rt @jasmeet_kaur_: i wish i could live inside my dreams.
+-1	908	 9:it:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @abc7newsbayarea: it was a bit of a circus outside google’s shareholders meeting as protesters criticized google’s tracking practices ...
+-1	909	 3:is:1	@windowsphone my must-have #windowsphone app is appflo.
+-1	910	 54:on:1 55:the:1 134:in:1	@windows why doesn't the keyboard in win8 use the same tech as the keyboard on winphone8? get on that!
+-1	911	 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	want to be stephen hawking's assistant? apply here -&gt; http://t.co/kbf3ky4g
+-1	912	 192:no:1	@bbgeorgey urghh no fun &gt;&lt; good luck you'll do fine~~
+-1	913	 6:we:1	here we go again..... i swear i fuck everything upppp 😡
+-1	914	 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1 205:a:1	rt @biebermylovato: it's just a hug moshe....... http://t.co/wbvhy8r4
+-1	915	 93:to:1	dang my followers dont know whether to stay or go...stop chanigng my damn followers count every damn day!!!
+-1	916	 3:is:1 11:and:1 55:the:1 93:to:1 190:there:1 194:at:1	@thad_anderson that’s all the data there is, and the universe he’s lookin at. seems ok to me.
+-1	917	 63:http:1 64:t.co:1 79:http_t.co:1	dan bus company rejects kadima campaign ads http://t.co/v45apfmz
+-1	918	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 93:to:1	watch: victoria's secret models forget the words to "deck the halls" http://t.co/yzta3ctk
+-1	919	 54:on:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @truthismyagenda: most-watched nba christmas day on espn since 2004  via @tvbythenumbers http://t.co/0nfmwi0u
+-1	920	 63:http:1 64:t.co:1 79:http_t.co:1 134:in:1	taegan goddard wire: gingrich edges romney in michigan http://t.co/uewyhwuc full http://t.co/wvhe4z4v
+-1	921	 3:is:1 13:this:1 63:http:1 64:t.co:1 79:http_t.co:1 142:join:1	las vegas models is hiring! - now would you join after seeing this low budget commerical?  http://t.co/8tajsmja
+-1	922	 6:we:1 7:will:1 13:this:1 28:we_will:1 55:the:1 127:rt:1 145:<s>_rt:1	rt @krizzy_kalerqui: happy 12.12.12 guys. this the last repetitive date we will ever see.
+-1	923	 129:what:1 205:a:1	“@derekwell: whats yr reason for being single?” kuz i got 99 problms nd a bitch ain 1.
+-1	924	 134:in:1	@dj_hicks1 i would hope so....i'm not right in front of you or anything...(;
+-1	925	 9:it:1 11:and:1 54:on:1	@8oclockcoffee used 8o'clock coffee for family party of 60 last year and great uncles raved about it. got all hopped up on cup after cup!
+-1	926		lool, its ok josh:)
+-1	927	 55:the:1 63:http:1 64:t.co:1 79:http_t.co:1 127:rt:1 145:<s>_rt:1	rt @repjoewalsh watch the oversight #contempt citation hearing live- http://t.co/lhm1f1c8 #fastandfurious #holder
+-1	928	 9:it:1 93:to:1	@themarylands i couldnt figure out why i was so tired. lol then i thought about it &amp; was like oh i need to sit down
+-1	929	 127:rt:1 145:<s>_rt:1 191:are:1	rt @mrmickmars: jimi hendrix. sept.18 1970 you are missed
+-1	930	 127:rt:1 145:<s>_rt:1	rt @ainulkhairina: #bieberfreeconcertsingapore @justinbieber @scooterbraun @alfredoflores @allisonkaye @pattiemallette
+-1	931	 55:the:1	y'all can have them j's, ima keep rockin my chucks &amp; adidas, while u have 10 pairs of sneaks, i'll have 35, who's the sneakerhead now?
+-1	932	 9:it:1 172:but:1	@traceywheeler yeah but it never gets old
+-1	933	 93:to:1 136:who:1	@chococat34 @defendressofsan i just found out it's racist to use obama's middle name. hussein. who knew???
+-1	934	 17:today:1 127:rt:1 129:what:1 145:<s>_rt:1	rt @ainebelton: do more of what you #love, today & everyday! ~#aine #quote
+-1	935	 93:to:1 136:who:1	@chococat34 @defendressofsan i just found out it's racist to use obama's middle name. hussein. who knew???
+-1	936	 17:today:1 127:rt:1 129:what:1 145:<s>_rt:1	rt @ainebelton: do more of what you #love, today & everyday! ~#aine #quote
