@@ -165,6 +165,7 @@ function getSelectedParameters() {
 }
 
 function searchAPI() {
+     $(".main_body_labeler").show();
     var paraQueryID = $('#paraQueryID').val();
     if(paraQueryID == null || paraQueryID.length == 0){
 	return;

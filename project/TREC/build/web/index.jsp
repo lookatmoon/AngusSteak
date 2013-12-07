@@ -14,17 +14,17 @@
     
         
     <div class="page-header" align="center">
-        <h1>Our Project <small>Subtext for header</small></h1>
+        <h1>High Recall Search </h1>
     </div>
         
         
-    <div id='static_btn' class='mini-layout fixed' align='center' style='top:300px;position: fixed;width:350px;'>
-        <div class='well' style='width:200px; height:150px'>  
+    <div id='static_btn' class='mini-layout fixed' align='center' style='top:300px;position: fixed;width:300px;'>
+        <div class='well' style='width:90px; height:110px'>  
             
-            <div class="pull-left" style='margin-bottom: 10px;'><span style='background-color: #99CCFF'><font size="5">pos unigrams</font></span></div>
-            <div class="pull-left" style='margin-bottom: 10px;'><span style='background-color: #99CC00'><font size="5"> neg unigrams</font></span></div>
-            <div class="pull-left" style='margin-bottom: 10px;'><del style='color:black;'><font size="5"> pos bigrams</font></del></div>
-            <div class="pull-left" style='margin-bottom: 10px;'><del style='color:red;'><font size="5"> neg bigrams</font></del></div>
+            <div class="pull-left" style='margin-bottom: 10px;'><span style='background-color: #99CCFF'>pos unigrams</span></div>
+            <div class="pull-left" style='margin-bottom: 10px;'><span style='background-color: #99CC00'>neg unigrams</span></div>
+            <div class="pull-left" style='margin-bottom: 10px;'><del style='color:black;'>pos bigrams</del></div>
+            <div class="pull-left" style='margin-bottom: 10px;'><del style='color:red;'> neg bigrams</del></div>
             
         </div>
         
@@ -195,15 +195,11 @@
                     id="submitConfidentBotton" onclick='sendLabeledConfidentTweetsBack();' 
                     type="button">Submit Confident tweets as well</button>
                 </div>
+            
             </div>
-		
+		<br>
         </div>
-   </div>
-<!--        Jun's Session end-->
-
-        
-
-        <div class='container mini-layout'>
+          <div class='container mini-layout'>
 	<div class='well' id="inputContainer">
             <div>
 <!--		<input type="submit" id="stopButton"
@@ -227,6 +223,12 @@
 	    </div>
 	</div>      
         </div>
+   </div>
+<!--        Jun's Session end-->
+
+        
+
+        
 	
 	
         <script src="js/jquery.js"></script>
