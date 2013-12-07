@@ -18,11 +18,7 @@
        
         <div class='container mini-layout'>
 	<div class='well' id="inputContainer">
-<<<<<<< HEAD
-            Query: <input id="paraQuery" type="text" value="politics" >
-=======
             <input id="paraQuery" type="text" value="" >
->>>>>>> ea8f2babb7960a6e4fcef46bf4527f8a2feb94dc
 
             <a id='bt1' onclick="setVisibility('div1');"> Advanced </a><br>
             
@@ -135,13 +131,6 @@
         <div class='container mini-layout'>
             <div class='well' id="inputContainer">
 
-<<<<<<< HEAD
-                Tweets to be labeled. 
-                <span class="label label-success"><font size="3">pos unigrams</font></span>
-                <span class="label label-important"><font size="3">neg unigrams</font></span>
-                <span class="label"><font size="3">pos bigrams</font></span>
-                <span class="label label-inverse"><font size="3">neg bigrams</font></span>
-=======
                 <div id="tableContainer">
                     <table id="one-column-emphasis" class="one_column_emphasis"></table>
                 </div>
@@ -162,7 +151,6 @@
                 
                     </div>
                 </div>
->>>>>>> ea8f2babb7960a6e4fcef46bf4527f8a2feb94dc
             </div>
         </div>
         
@@ -193,31 +181,17 @@
         <div class='span12 main_body_labeler'>
             <ul class="nav nav-tabs">
                <li class="active">
-                   <a class="labeler">Labeler1</a>
+                   <a href="#">Labeler1</a>
                </li>
-               <li ><a  class="labeler">Labeler2</a></li>
-               <li ><a class="labeler">Labeler3</a></li>
+               <li><a href="#">Labeler2</a></li>
+               <li><a href="#">Labeler3</a></li>
             </ul>
         </div>
         </div>
         
-       <div id="tableContainer" class="container labeler_0_content">
-                    <table id="one-column-emphasis" class="one_column_emphasis table table-striped"></table>
-       </div> 
         
-        <div>
-	    <div id="labeledStatsDiv" ></div>
-	    <div id="tableContainerRight" class="container labeler_1_content">
-		<table id="one-column-emphasis-right"  class="one_column_emphasis table table-striped" width="95%"></table>
-	    </div>
-	</div>
-        
-	<div>
-	    <div id="classiferStatsDiv" ></div>
-	    <div id="tableContainerRightBottom" class="container labeler_2_content">
-		<table id="one-column-emphasis-rightBottom"  class="one_column_emphasis table table-striped" width="95%"></table>
-	    </div>
-	</div>
+
+	
 
 	
 	<div id="bottonRightDiv" style="position: relative; height: 6%; width: 10%; left: 80%; top: 94%; display: none;">
@@ -226,6 +200,20 @@
 		   value="Submit Confident tweets as well" onclick='sendLabeledConfidentTweetsBack();'>
 	</div>
 
+	<div>
+	    <div id="labeledStatsDiv" ></div>
+	    <div id="tableContainerRight" >
+		<table id="one-column-emphasis-right"  class="one_column_emphasis table table-striped" width="95%"></table>
+	    </div>
+	</div>
+
+	<div >
+
+	    <div id="classiferStatsDiv" ></div>
+	    <div id="tableContainerRightBottom" >
+		<table id="one-column-emphasis-rightBottom"  class="one_column_emphasis table table-striped" width="95%"></table>
+	    </div>
+	</div>
         
         
 	
@@ -234,7 +222,6 @@
         <script src="js/bootstrap.min.js"></script>
 	<script src="js/getQueryTweets.js"></script>
 	<script src="js/draw.js"></script>
-        <script src="js/index.js"></script>
 	<script src="js/data.js"></script>
 	<script src="js/globalVar.js"></script> 
         <script src="js/bootstrap/formatter.js"></script>
@@ -249,7 +236,6 @@
 		    sendQueryRequest($("#query").val());
 		}
 	    });
-            
 	</script>
 
     </body>
