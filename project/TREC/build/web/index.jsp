@@ -9,46 +9,25 @@
         <title>TREC Labeling</title>
     </head>
     <body>
+        
+    <div class="page-header" align="center">
+        <h1>Our Project <small>Subtext for header</small></h1>
+    </div>
+        
+       
         <div class='container mini-layout'>
 	<div class='well' id="inputContainer">
-	    <input id="query" type="text" value="politics" >
-<!--	    <input type="submit" id="queryButton"
-		   value="Continue by Query ID" onclick='sendQueryRequest($("#query").val());'>-->
-            <button class="btn btn-primary" 
-                    id="queryButton" onclick='sendQueryRequest($("#query").val());' 
-                    type="button">Continue by Query ID</button>
-            
-	    <div>
-		# tweets to be labeled: <input id="queryNumRtn" type="text">
-	    </div>
-	    <div>
-		# confident tweets: <input id="confidentNumRtn" type="text">
-	    </div>
-<!--	    <input type="submit" id="allTweetsButton" style="position: relative; "
-		   value="All unlabeled tweets" onclick='allUnLabeledTweets($("#query").val());'>-->
-            <button class="btn btn-primary" 
-                    id="allTweetsButton" onclick='allUnLabeledTweets($("#query").val());' 
-                    type="button">All unlabeled tweets</button>
-	</div>
-            
-        <div class='well'>
-	    Tweets to be labeled. 
-            <span class="label label-success"><font size="3">pos unigrams</font></span>
-            <span class="label label-important"><font size="3">neg unigrams</font></span>
-            <span class="label"><font size="3">pos bigrams</font></span>
-            <span class="label label-inverse"><font size="3">neg bigrams</font></span>
-            
-	    <div id="tableContainer">
-		<table id="one-column-emphasis" class="one_column_emphasis"></table>
-	    </div>
-	</div>
-        </div>
+            Query: <input id="paraQuery" type="text" value="" >
 
-        <div class='container mini-layout'>
-        <div class='search_options'>
-        <div id="paraSetContainer" class="span4 well">
+            <input type="button" name=type id='bt1' value='Advance' onclick="setVisibility('div1');"> <br>
+
+            
+            <button class="btn btn-primary" 
+                    id="queryAPIButton" onclick='searchAPI();' type="button">Search API
+            </button><br><br>
+            <div id="div1" style="display: none;">
 	    <select id="paraSetSelecter" name="trecQueries">
-		<option id="queryNone"> </option>
+		<option id="queryNone"> Enter preset queries...</option>
 		<option id="MB111">MB111; water shortages; 317711766815653888</option>
 		<option id="MB112">MB112; Florida Derby 2013; 318035260900265985</option>
 		<option id="MB113">MB113; Kal Penn; 318263699460747265</option>
@@ -112,38 +91,57 @@
 	    </select>
 	    <br>
 	    Query id: <input id="paraQueryID" type="text" value="" ><br>
-	    Query: <input id="paraQuery" type="text" value="" ><br>
+
 	    Query tweet time: <input id="paraQueryTime" type="text"  value="" ><br>
 	    Maximum number of tweets: <input id="paraQueryTweetNum" type="text"  value="500" ><br>
 	    Number of clusters: <input id="paraClusterNum" type="text"  value="20" ><br>
 	    Number of top tweets selected in first retrieval: <input id="paraTopTweetNum" type="text"  value="20"><br>
-            <button class="btn btn-primary" 
-                    id="queryAPIButton" onclick='searchAPI();' type="button">Search API</button>
-	</div>
-        
-        <div id="newQueryDiv" class='span4 well'>
-	    <div id="newQueryText"></div>
-	    <br>
-	    <div id="newQueryToSubmitDiv">
-		Query for outer loop: <br>
-		<textarea id="newQueryToSubmitInput" cols="60" rows="5" wrap="virtual"></textarea>
-		<br>
-		Ignored terms in query: <div id="newQueryIgnoreText" ></div>
-	    </div>
-	    <div id="tweetNumOuterLoop" ></div>
-	    <div id="oldQueryDiv" ></div>
-	    Maximum number of tweets: <input id="paraQueryTweetNum2" type="text"  value="1000" ><br>
-	    <div>
-<!--		<input type="submit" id="stopButton"
-		       value="Stop labeling to query API" onclick='re_searchAPI();'>-->
-                <button class="btn btn-primary" 
-                    id="stopButton" onclick='re_searchAPI();' type="button">Stop labeling to query API</button>
-	    </div>
-	</div>
+            
+	
+            </div>      
         </div>
+        </div>
+        
+        <div class='container mini-layout'>
+	<div class='well' id="inputContainer">
+	    <input id="query" type="text" value="politics" >
+<!--	    <input type="submit" id="queryButton"
+		   value="Continue by Query ID" onclick='sendQueryRequest($("#query").val());'>-->
+            <button class="btn btn-primary" 
+                    id="queryButton" onclick='sendQueryRequest($("#query").val());' 
+                    type="button">Continue by Query ID</button>
+            
+	    <div>
+		# tweets to be labeled: <input id="queryNumRtn" type="text">
+	    </div>
+	    <div>
+		# confident tweets: <input id="confidentNumRtn" type="text">
+	    </div>
+<!--	    <input type="submit" id="allTweetsButton" style="position: relative; "
+		   value="All unlabeled tweets" onclick='allUnLabeledTweets($("#query").val());'>-->
+            <button class="btn btn-primary" 
+                    id="allTweetsButton" onclick='allUnLabeledTweets($("#query").val());' 
+                    type="button">All unlabeled tweets</button>
+	</div>      
         </div>
         
         <!--       added by Jun, TAB-->
+        
+        <div class='container mini-layout'>
+            <div class='well' id="inputContainer">
+
+                Tweets to be labeled. 
+                <span class="label label-success"><font size="3">pos unigrams</font></span>
+                <span class="label label-important"><font size="3">neg unigrams</font></span>
+                <span class="label"><font size="3">pos bigrams</font></span>
+                <span class="label label-inverse"><font size="3">neg bigrams</font></span>
+
+                <div id="tableContainer">
+                    <table id="one-column-emphasis" class="one_column_emphasis"></table>
+                </div>
+            </div>
+        </div>
+        
         <div class='container'>
         <div class='span12 main_body_labeler'>
             <ul class="nav nav-tabs">
@@ -185,6 +183,28 @@
 		<table id="one-column-emphasis-rightBottom"  class="one_column_emphasis" width="95%"></table>
 	    </div>
 	</div>
+        
+        <div class='container mini-layout'>
+	<div class='well' id="inputContainer">
+	    <div id="newQueryText"></div>
+	    <br>
+	    <div id="newQueryToSubmitDiv">
+		Query for outer loop: <br>
+		<textarea id="newQueryToSubmitInput" cols="60" rows="5" wrap="virtual"></textarea>
+		<br>
+		Ignored terms in query: <div id="newQueryIgnoreText" ></div>
+	    </div>
+	    <div id="tweetNumOuterLoop" ></div>
+	    <div id="oldQueryDiv" ></div>
+	    Maximum number of tweets: <input id="paraQueryTweetNum2" type="text"  value="1000" ><br>
+	    <div>
+<!--		<input type="submit" id="stopButton"
+		       value="Stop labeling to query API" onclick='re_searchAPI();'>-->
+                <button class="btn btn-primary" 
+                    id="stopButton" onclick='re_searchAPI();' type="button">Stop labeling to query API</button>
+	    </div>
+	</div>      
+        </div>
 
 	
 	
@@ -193,7 +213,8 @@
 	<script src="js/getQueryTweets.js"></script>
 	<script src="js/draw.js"></script>
 	<script src="js/data.js"></script>
-	<script src="js/globalVar.js"></script>  
+	<script src="js/globalVar.js"></script> 
+        <script src="js/bootstrap/formatter.js"></script>
         <script type="text/javascript">
 	    
 	    $('#paraSetSelecter').change(function() {
