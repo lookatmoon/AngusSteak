@@ -173,7 +173,7 @@
 	<div>
 	    <div id="labeledStatsDiv" ></div>
 	    <div id="tableContainerRight" >
-		<table id="one-column-emphasis-right"  class="one_column_emphasis" width="95%"></table>
+		<table id="one-column-emphasis-right"  class="one_column_emphasis table table-striped" width="95%"></table>
 	    </div>
 	</div>
 
@@ -181,7 +181,7 @@
 
 	    <div id="classiferStatsDiv" ></div>
 	    <div id="tableContainerRightBottom" >
-		<table id="one-column-emphasis-rightBottom"  class="one_column_emphasis" width="95%"></table>
+		<table id="one-column-emphasis-rightBottom"  class="one_column_emphasis table table-striped" width="95%"></table>
 	    </div>
 	</div>
         
