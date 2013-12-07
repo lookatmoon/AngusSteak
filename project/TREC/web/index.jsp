@@ -5,7 +5,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	
+	<link rel="stylesheet" type="text/css" href="css/customize.css">
+
         <title>TREC Labeling</title>
     </head>
     <body>
@@ -19,8 +20,7 @@
 	<div class='well' id="inputContainer">
             Query: <input id="paraQuery" type="text" value="" >
 
-            <input type="button" name=type id='bt1' value='Advance' onclick="setVisibility('div1');"> <br>
-
+            <a id='bt1' onclick="setVisibility('div1');"> Advanced </a><br>
             
             <button class="btn btn-primary" 
                     id="queryAPIButton" onclick='searchAPI();' type="button">Search API
@@ -90,15 +90,21 @@
 		<option id="MB170">MB170; Tony Mendez; 318365281321881600</option>
 	    </select>
 	    <br>
-	    Query id: <input id="paraQueryID" type="text" value="" ><br>
+	    Query id: <input id="paraQueryID" type="text" value="politics" ><br>
 
-	    Query tweet time: <input id="paraQueryTime" type="text"  value="" ><br>
+	    Query tweet time: <input id="paraQueryTime" type="text"  value="234" ><br>
 	    Maximum number of tweets: <input id="paraQueryTweetNum" type="text"  value="500" ><br>
 	    Number of clusters: <input id="paraClusterNum" type="text"  value="20" ><br>
 	    Number of top tweets selected in first retrieval: <input id="paraTopTweetNum" type="text"  value="20"><br>
-            
+            <div>
+		# tweets to be labeled: <input id="queryNumRtn" type="text">
+	    </div>
+	    <div>
+		# confident tweets: <input id="confidentNumRtn" type="text">
+	    </div>
 	
             </div>      
+            
         </div>
         </div>
         
@@ -111,12 +117,7 @@
                     id="queryButton" onclick='sendQueryRequest($("#query").val());' 
                     type="button">Continue by Query ID</button>
             
-	    <div>
-		# tweets to be labeled: <input id="queryNumRtn" type="text">
-	    </div>
-	    <div>
-		# confident tweets: <input id="confidentNumRtn" type="text">
-	    </div>
+	    
 <!--	    <input type="submit" id="allTweetsButton" style="position: relative; "
 		   value="All unlabeled tweets" onclick='allUnLabeledTweets($("#query").val());'>-->
             <button class="btn btn-primary" 
