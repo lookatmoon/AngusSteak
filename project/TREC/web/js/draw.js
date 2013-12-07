@@ -17,7 +17,7 @@ function drawTable(tweetArray, tweetLabels, tableDivID, checkBoxID, startIndex){
 	}else{
 	    check = 'checked="checked"';
 	}
-	$('#' + tableDivID + ' tbody').append('<tr style="background-color:'+color+';"><td><font size="4">'+tweetHighLight(tweetArray[i], startIndex)+'</font></td><td width="12%"><input type="checkbox" name="option' + i + '" id="' + checkBoxID + i + '" style="width:35px; height:35px;" ' + check + ' ></td></tr>');
+	$('#' + tableDivID + ' tbody').append('<tr style="background-color:'+color+';"><td>'+tweetHighLight(tweetArray[i], startIndex)+'</td><td width="12%"><input type="checkbox" name="option' + i + '" id="' + checkBoxID + i + '" style="width:35px; height:35px;" ' + check + ' ></td></tr>');
 	$('#' + checkBoxID + i).click(function() {
 		
 	    $(this).parent().parent().css("background-color", "rgba(255,204,204,0.5)");

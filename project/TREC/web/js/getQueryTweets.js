@@ -138,8 +138,8 @@ function sendLabeledTweetsBack(){
 	returnLabels += label + "_" + labeledTweetIDs[i] + "__";
     }
     
-    $("#bottonDiv").hide();
-    $("#bottonRightDiv").hide();
+//    $("#bottonDiv").hide();
+//    $("#bottonRightDiv").hide();
     //    console.log(returnLabels);
     $.ajax({
 	type: "POST",
@@ -165,6 +165,7 @@ function getSelectedParameters() {
 }
 
 function searchAPI() {
+    $(".main_body_labeler").show();
     var paraQueryID = $('#paraQueryID').val();
     if(paraQueryID == null || paraQueryID.length == 0){
 	return;
@@ -220,7 +221,7 @@ function searchAPI() {
 	+"&query="+paraQueryID+"&paraQueryTime="+paraQueryTime+"&paraQueryTweetNum="+paraQueryTweetNum+"&paraClusterNum="+paraClusterNum,
 	success: function(tweetNumOuterLoop) {
 	    $("#tweetNumOuterLoop").text("New unique, English tweets retrieved via API: " + tweetNumOuterLoop);
-	    alert("New unique, English tweets retrieved via API: " + tweetNumOuterLoop);
+	    //alert("New unique, English tweets retrieved via API: " + tweetNumOuterLoop);
 	    $("#query").val(paraQueryID);
 	    queryName = paraQueryID;
 	    sendQueryRequest(paraQueryID);
