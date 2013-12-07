@@ -164,9 +164,11 @@
         
         <div id="tableContainer" class="labeler_0_content container">
             <div id="bottonDiv" style="display: none;">
-                    <input type="submit" id="submitBotton"
-                           style="position: relative; left: 25%; top: 20%; "
-                           value="Submit" onclick='sendLabeledTweetsBack();'>
+                    <button class="btn btn-primary"  id="submitBotton" type="button"
+                            onclick='sendLabeledTweetsBack();'> Submitsdfasdf</button>
+                <button class="btn btn-primary" 
+                    onclick='re_searchAPI();' type="button">Stop labeling to query API</button>
+	    
             </div>
                     <table id="one-column-emphasis" class="one_column_emphasis table table-striped"></table>
        </div>
