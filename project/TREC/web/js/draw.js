@@ -39,10 +39,12 @@ function tweetHighLight(tweet, startIndex){
 }
 
 function highlightWords(tweetWords, startIndex){
-    var posColor = "label label-success";
-    var negColor = "label label-important";
-    var posBigram = "label"; 
-    var negBigram = "label label-inverse"; 
+    var posColor = "#99CCFF";
+    var negColor = "#99CC00";
+    var posBigram = "<del style='color:black;'>"; //underscore
+    var negBigram = "<del style='color:red;'>"; //cross out words
+    var posBigramEnd = "</del>"; //underscore
+    var negBigramEnd = "</del>"; //cross out words
     
     var i=0;
     var tweet = "";
@@ -79,22 +81,24 @@ function highlightWords(tweetWords, startIndex){
 	if(bigram in posWords){
 	    tweetWordBigramShapes[i-1] = posBigram;
 	    tweetWordBigramShapes[i] = posBigram;
-	    
+	    tweetWordBigramShapeEnds[i-1] = posBigramEnd;
+	    tweetWordBigramShapeEnds[i] = posBigramEnd;
 	    
 	}else if(bigram in negWords){
 	    tweetWordBigramShapes[i-1] = negBigram;
 	    tweetWordBigramShapes[i] = negBigram;
-	    
+	    tweetWordBigramShapeEnds[i-1] = negBigramEnd;
+	    tweetWordBigramShapeEnds[i] = negBigramEnd;
 	}
     }    
 
     for(i=0; i<tweetWords.length; i++){
 
 	if(tweetWordColors[i] != ""){
-	    tweet += "<SPAN class=' " + tweetWordColors[i] + tweetWordBigramShapes[i] +"'>" + tweetWords[i] + "</SPAN> ";
+	    tweet += "<SPAN style='BACKGROUND-COLOR: " + tweetWordColors[i] + "'>" + tweetWordBigramShapes[i] + tweetWords[i] + tweetWordBigramShapeEnds[i] + "</SPAN> ";
 	    
 	}else{
-	    tweet += "<SPAN class=' " + tweetWordBigramShapes[i] +"'>" + tweetWords[i] + "</SPAN> ";
+	    tweet += tweetWordBigramShapes[i] + tweetWords[i] + tweetWordBigramShapeEnds[i] + " ";
 	}
     }
 

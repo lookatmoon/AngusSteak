@@ -220,7 +220,7 @@ function searchAPI() {
 	+"&query="+paraQueryID+"&paraQueryTime="+paraQueryTime+"&paraQueryTweetNum="+paraQueryTweetNum+"&paraClusterNum="+paraClusterNum,
 	success: function(tweetNumOuterLoop) {
 	    $("#tweetNumOuterLoop").text("New unique, English tweets retrieved via API: " + tweetNumOuterLoop);
-	    alert("New unique, English tweets retrieved via API: " + tweetNumOuterLoop);
+	    //alert("New unique, English tweets retrieved via API: " + tweetNumOuterLoop);
 	    $("#query").val(paraQueryID);
 	    queryName = paraQueryID;
 	    sendQueryRequest(paraQueryID);
